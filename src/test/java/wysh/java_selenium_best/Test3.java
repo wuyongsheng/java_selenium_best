@@ -8,8 +8,6 @@ public class Test3 {
 		// TODO Auto-generated method stub
          WebDriver driver = new ChromeDriver();
          driver.get("http://wysh.site");
-         System.out.println("ni hao");
-         
          try {
 			Thread.sleep(5000);
 		} catch (InterruptedException e) {
