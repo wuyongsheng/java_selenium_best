@@ -14,7 +14,7 @@ public class Test1 {
   public void wysh() {
 	  driver.get("http://wysh.site");
 	  String title = driver.getTitle();
-	  System.out.println("title is :"+title);
+	  System.out.println("title  :"+title);
 	  try {
 		Thread.sleep(5000);
 	} catch (InterruptedException e) {
