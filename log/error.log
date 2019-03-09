@@ -1,0 +1,17 @@
+2019-03-09 14:43:35 [wysh.selenium.util.LogsInit] - [ main:0 ] - [ FATAL ] this is fatal!
+2019-03-09 14:43:35 [wysh.selenium.util.LogsInit] - [ main:7 ] - [ ERROR ] this is error!
+2019-03-09 15:19:11 [wysh.selenium.testcase.TestLoginExcel] - [ main:0 ] - [ ERROR ] username is :admin
+2019-03-09 15:19:11 [wysh.selenium.testcase.TestLoginExcel] - [ main:10 ] - [ ERROR ] password is :Aa1234
+2019-03-09 15:19:29 [wysh.selenium.testcase.TestLoginExcel] - [ main:18515 ] - [ ERROR ] username is :admin1
+2019-03-09 15:19:29 [wysh.selenium.testcase.TestLoginExcel] - [ main:18515 ] - [ ERROR ] password is :Bb1234
+2019-03-09 15:19:41 [wysh.selenium.testcase.TestLoginExcel] - [ main:30561 ] - [ ERROR ] username is :user3
+2019-03-09 15:19:41 [wysh.selenium.testcase.TestLoginExcel] - [ main:30562 ] - [ ERROR ] password is :Cc1234
+2019-03-09 15:19:52 [wysh.selenium.testcase.TestLoginExcel] - [ main:41111 ] - [ ERROR ] username is :user4
+2019-03-09 15:19:52 [wysh.selenium.testcase.TestLoginExcel] - [ main:41120 ] - [ ERROR ] password is :Dd1234
+2019-03-09 15:20:00 [wysh.selenium.testcase.TestLoginExcel] - [ main:48956 ] - [ ERROR ] username is :user5
+2019-03-09 15:20:00 [wysh.selenium.testcase.TestLoginExcel] - [ main:48956 ] - [ ERROR ] password is :Ee1234
+2019-03-09 15:20:08 [wysh.selenium.testcase.TestLoginExcel] - [ main:57128 ] - [ ERROR ] username is :user6
+2019-03-09 15:20:08 [wysh.selenium.testcase.TestLoginExcel] - [ main:57133 ] - [ ERROR ] password is :Ff1234
+2019-03-09 15:20:16 [wysh.selenium.testcase.TestLoginExcel] - [ main:65376 ] - [ ERROR ] username is :user7
+2019-03-09 15:20:16 [wysh.selenium.testcase.TestLoginExcel] - [ main:65377 ] - [ ERROR ] password is :Gg1234
+2019-03-09 15:28:06 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ ERROR ] browser is chrome !!!

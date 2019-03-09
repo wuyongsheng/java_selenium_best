@@ -12,6 +12,7 @@ public class LoginPro {
 	}
 	public void login(String username ,String password) {
 		if(lph.assertLoginPage()) {
+			lph.maxwin();
 			lph.clearKeysUserName();
 			lph.sendKeysUserName(username);
 			lph.clearKeysPassword();

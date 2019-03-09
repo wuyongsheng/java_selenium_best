@@ -32,18 +32,18 @@ public class TestLogin extends CaseBase{
 	    String url = "http://127.0.0.1/zentao/user-login.html";
 //	    String url = "http://wysh.site";
 	    driver.get(url);
+	    try {
+			Thread.sleep(3000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 
 	@Test
 	@Parameters({"username","password"})
 	public void  testlogin(String username,String password) {
 		loginpro.login(username, password);
-		try {
-			Thread.sleep(3000);
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
 	}
     
 //	@Test(dependsOnMethods=("testlogin"))

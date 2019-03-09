@@ -70,6 +70,10 @@ public class BasePage {
 		driver.close();
 	}
 	
+	public void maxwin() {
+		driver.maxwin();
+	}
+	
 	public List<String> getWindowsHandles(){
 		List<String> handles = driver.getWindowsHandles();
 		return handles;

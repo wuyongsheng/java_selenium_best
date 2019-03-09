@@ -28,6 +28,10 @@ public class LoginPageHandle {
 		lp.click(lp.getLoginButtonElement());
 	}
 	
+	public void maxwin() {
+		lp.maxwin();
+	}
+	
 	public boolean assertLoginPage() {
 		return lp.assertElementIs(lp.getUserNameElement());
 	}

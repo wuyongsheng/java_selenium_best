@@ -115,6 +115,13 @@ public class DriverBase {
    }
    
    /*
+    * 浏览器窗口最大化
+    * */
+   public void maxwin() {
+	   driver.manage().window().maximize();
+   }
+   
+   /*
     * 关闭浏览器
     * */
    public void close(WebDriver driver) {

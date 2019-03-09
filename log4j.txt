@@ -1,0 +1,20 @@
+log4j.rootLogger = debug,stdout,De,Er
+
+log4j.appender.stdout = org.apache.log4j.ConsoleAppender
+log4j.appender.stdout.Target = System.out
+log4j.appender.stdout.layout = org.apache.log4j.PatternLayout
+log4j.appender.stdout.layout.ConversionPattern = [%-5p] %d{yyyy-MM-dd HH:mm:ss,SSS} method:%l%n%m%n
+
+log4j.appender.De = org.apache.log4j.DailyRollingFileAppender
+log4j.appender.De.File = log/log.log
+log4j.appender.De.Append = true
+log4j.appender.De.Threshold = DEBUG 
+log4j.appender.De.layout = org.apache.log4j.PatternLayout
+log4j.appender.De.layout.ConversionPattern = %-d{yyyy-MM-dd HH:mm:ss} [%c] - [ %t:%r ] - [ %p ] %m%n
+
+log4j.appender.Er = org.apache.log4j.DailyRollingFileAppender
+log4j.appender.Er.File =log/error.log 
+log4j.appender.Er.Append = true
+log4j.appender.Er.Threshold = ERROR 
+log4j.appender.Er.layout = org.apache.log4j.PatternLayout
+log4j.appender.Er.layout.ConversionPattern = %-d{yyyy-MM-dd HH:mm:ss} [%c] - [ %t:%r ] - [ %p ] %m%n
