@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name="Suite" parallel="false">
+  <parameter name ="username" value="admin"/>
+	<parameter name ="password" value="Aa1234"/>
   <test name="Test">
     <classes>
-      <class name="wysh.java_selenium_best.Test1"/>
+	<!-- <class name="wysh.java_selenium_best.Test1"/> -->
+	<!-- <class name="wysh.java_selenium_best.TestLogin"/> -->
+	<!-- <class name="wysh.selenium.testcase.TestLogin" />  -->
+	<class name="wysh.selenium.testcase.TestLoginExcel" />
     </classes>
   </test> <!-- Test -->
   <listeners>
         <listener class-name="org.uncommons.reportng.HTMLReporter" />
         <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
-    </listeners>
+         <listener class-name="wysh.selenium.util.RetryListener" />
+        <listener class-name="wysh.selenium.util.TestNGListenerScreen" />
+    </listeners>   
 </suite> <!-- Suite -->
