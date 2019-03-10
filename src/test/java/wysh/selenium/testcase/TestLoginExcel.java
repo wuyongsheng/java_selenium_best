@@ -35,6 +35,12 @@ public class TestLoginExcel extends CaseBase{
 	    String url = "http://127.0.0.1/zentao/user-login.html";
 //	    String url = "http://wysh.site";
 	    driver.get(url);
+	    try {
+			Thread.sleep(2000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 
 //	@Test

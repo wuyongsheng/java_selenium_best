@@ -11,7 +11,7 @@ import org.testng.ITestContext;
 import org.testng.ITestResult;
 import org.testng.TestListenerAdapter;
 
-import wysh.selenium.testcase.TestLogin;;;
+import wysh.selenium.testcase.TestLoginExcel;
 
 
 public class TestNGListenerScreen extends TestListenerAdapter{
@@ -25,12 +25,11 @@ public class TestNGListenerScreen extends TestListenerAdapter{
     public void onTestFailure(ITestResult tr) {
         super.onTestFailure(tr);
         System.out.println(tr);
-        
         takeScreenShot(tr);
     }
 
     private void takeScreenShot(ITestResult tr) {
-        TestLogin b = (TestLogin) tr.getInstance();
+        TestLoginExcel b = (TestLoginExcel) tr.getInstance();
         // driver = b.driver;
         b.driver.takeScreenShot();
 
