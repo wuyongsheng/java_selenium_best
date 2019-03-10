@@ -133,12 +133,6 @@ public class TestLogin {
 //	 }
 	 WebElement  eVersionElement = driver.findElement(By.xpath("//*[@id=\"openedBuild_chosen\"]/div/ul/li"));
 	 eVersionElement.click();
-//	 try {
-//			Thread.sleep(3000);
-//		} catch (InterruptedException e) {
-//			// TODO Auto-generated catch block
-//			e.printStackTrace();
-//		}
 	 WebElement   titleElement  = driver.findElement(By.id("title"));
 	 titleElement.sendKeys("这是标题777，by user7");
 	 WebElement frameEmlement = driver.findElement(By.className("ke-edit-iframe"));
