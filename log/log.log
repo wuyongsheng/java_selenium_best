@@ -1,104 +1,200 @@
-2019-03-09 14:43:35 [wysh.selenium.util.LogsInit] - [ main:0 ] - [ FATAL ] this is fatal!
-2019-03-09 14:43:35 [wysh.selenium.util.LogsInit] - [ main:7 ] - [ ERROR ] this is error!
-2019-03-09 14:43:35 [wysh.selenium.util.LogsInit] - [ main:8 ] - [ WARN ] this is warn!
-2019-03-09 14:43:35 [wysh.selenium.util.LogsInit] - [ main:8 ] - [ INFO ] this is info!
-2019-03-09 14:43:35 [wysh.selenium.util.LogsInit] - [ main:8 ] - [ DEBUG ] this is debug!
-2019-03-09 15:19:11 [wysh.selenium.testcase.TestLoginExcel] - [ main:0 ] - [ ERROR ] username is :admin
-2019-03-09 15:19:11 [wysh.selenium.testcase.TestLoginExcel] - [ main:10 ] - [ INFO ] username is :admin
-2019-03-09 15:19:11 [wysh.selenium.testcase.TestLoginExcel] - [ main:10 ] - [ ERROR ] password is :Aa1234
-2019-03-09 15:19:11 [wysh.selenium.testcase.TestLoginExcel] - [ main:11 ] - [ INFO ] password is :Aa1234
-2019-03-09 15:19:29 [wysh.selenium.testcase.TestLoginExcel] - [ main:18515 ] - [ ERROR ] username is :admin1
-2019-03-09 15:19:29 [wysh.selenium.testcase.TestLoginExcel] - [ main:18515 ] - [ INFO ] username is :admin1
-2019-03-09 15:19:29 [wysh.selenium.testcase.TestLoginExcel] - [ main:18515 ] - [ ERROR ] password is :Bb1234
-2019-03-09 15:19:29 [wysh.selenium.testcase.TestLoginExcel] - [ main:18522 ] - [ INFO ] password is :Bb1234
-2019-03-09 15:19:41 [wysh.selenium.testcase.TestLoginExcel] - [ main:30561 ] - [ ERROR ] username is :user3
-2019-03-09 15:19:41 [wysh.selenium.testcase.TestLoginExcel] - [ main:30561 ] - [ INFO ] username is :user3
-2019-03-09 15:19:41 [wysh.selenium.testcase.TestLoginExcel] - [ main:30562 ] - [ ERROR ] password is :Cc1234
-2019-03-09 15:19:41 [wysh.selenium.testcase.TestLoginExcel] - [ main:30563 ] - [ INFO ] password is :Cc1234
-2019-03-09 15:19:52 [wysh.selenium.testcase.TestLoginExcel] - [ main:41111 ] - [ ERROR ] username is :user4
-2019-03-09 15:19:52 [wysh.selenium.testcase.TestLoginExcel] - [ main:41120 ] - [ INFO ] username is :user4
-2019-03-09 15:19:52 [wysh.selenium.testcase.TestLoginExcel] - [ main:41120 ] - [ ERROR ] password is :Dd1234
-2019-03-09 15:19:52 [wysh.selenium.testcase.TestLoginExcel] - [ main:41120 ] - [ INFO ] password is :Dd1234
-2019-03-09 15:20:00 [wysh.selenium.testcase.TestLoginExcel] - [ main:48956 ] - [ ERROR ] username is :user5
-2019-03-09 15:20:00 [wysh.selenium.testcase.TestLoginExcel] - [ main:48956 ] - [ INFO ] username is :user5
-2019-03-09 15:20:00 [wysh.selenium.testcase.TestLoginExcel] - [ main:48956 ] - [ ERROR ] password is :Ee1234
-2019-03-09 15:20:00 [wysh.selenium.testcase.TestLoginExcel] - [ main:48957 ] - [ INFO ] password is :Ee1234
-2019-03-09 15:20:08 [wysh.selenium.testcase.TestLoginExcel] - [ main:57128 ] - [ ERROR ] username is :user6
-2019-03-09 15:20:08 [wysh.selenium.testcase.TestLoginExcel] - [ main:57133 ] - [ INFO ] username is :user6
-2019-03-09 15:20:08 [wysh.selenium.testcase.TestLoginExcel] - [ main:57133 ] - [ ERROR ] password is :Ff1234
-2019-03-09 15:20:08 [wysh.selenium.testcase.TestLoginExcel] - [ main:57133 ] - [ INFO ] password is :Ff1234
-2019-03-09 15:20:16 [wysh.selenium.testcase.TestLoginExcel] - [ main:65376 ] - [ ERROR ] username is :user7
-2019-03-09 15:20:16 [wysh.selenium.testcase.TestLoginExcel] - [ main:65377 ] - [ INFO ] username is :user7
-2019-03-09 15:20:16 [wysh.selenium.testcase.TestLoginExcel] - [ main:65377 ] - [ ERROR ] password is :Gg1234
-2019-03-09 15:20:16 [wysh.selenium.testcase.TestLoginExcel] - [ main:65377 ] - [ INFO ] password is :Gg1234
-2019-03-09 15:28:06 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ ERROR ] browser is chrome !!!
-2019-03-09 21:13:31 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] browser is chrome !!!
-2019-03-09 21:13:44 [wysh.selenium.testcase.TestLoginExcel] - [ main:13317 ] - [ ERROR ] username is :admin
-2019-03-09 21:13:44 [wysh.selenium.testcase.TestLoginExcel] - [ main:13324 ] - [ INFO ] username is :admin
-2019-03-09 21:13:44 [wysh.selenium.testcase.TestLoginExcel] - [ main:13324 ] - [ ERROR ] password is :Aa1234
-2019-03-09 21:13:44 [wysh.selenium.testcase.TestLoginExcel] - [ main:13325 ] - [ INFO ] password is :Aa1234
-2019-03-09 21:13:53 [wysh.selenium.base.SelectDriver] - [ main:22258 ] - [ INFO ] browser is chrome !!!
-2019-03-09 21:13:57 [wysh.selenium.testcase.TestLoginExcel] - [ main:25573 ] - [ ERROR ] username is :admin1
-2019-03-09 21:13:57 [wysh.selenium.testcase.TestLoginExcel] - [ main:25574 ] - [ INFO ] username is :admin1
-2019-03-09 21:13:57 [wysh.selenium.testcase.TestLoginExcel] - [ main:25574 ] - [ ERROR ] password is :Bb1234
-2019-03-09 21:13:57 [wysh.selenium.testcase.TestLoginExcel] - [ main:25574 ] - [ INFO ] password is :Bb1234
-2019-03-09 21:14:04 [wysh.selenium.base.SelectDriver] - [ main:33506 ] - [ INFO ] browser is chrome !!!
-2019-03-09 21:14:08 [wysh.selenium.testcase.TestLoginExcel] - [ main:36799 ] - [ ERROR ] username is :user3
-2019-03-09 21:14:08 [wysh.selenium.testcase.TestLoginExcel] - [ main:36800 ] - [ INFO ] username is :user3
-2019-03-09 21:14:08 [wysh.selenium.testcase.TestLoginExcel] - [ main:36800 ] - [ ERROR ] password is :Cc1234
-2019-03-09 21:14:08 [wysh.selenium.testcase.TestLoginExcel] - [ main:36800 ] - [ INFO ] password is :Cc1234
-2019-03-09 21:14:15 [wysh.selenium.base.SelectDriver] - [ main:43893 ] - [ INFO ] browser is chrome !!!
-2019-03-09 21:14:19 [wysh.selenium.testcase.TestLoginExcel] - [ main:48129 ] - [ ERROR ] username is :user4
-2019-03-09 21:14:19 [wysh.selenium.testcase.TestLoginExcel] - [ main:48129 ] - [ INFO ] username is :user4
-2019-03-09 21:14:19 [wysh.selenium.testcase.TestLoginExcel] - [ main:48130 ] - [ ERROR ] password is :Dd1234
-2019-03-09 21:14:19 [wysh.selenium.testcase.TestLoginExcel] - [ main:48130 ] - [ INFO ] password is :Dd1234
-2019-03-09 21:14:26 [wysh.selenium.base.SelectDriver] - [ main:55435 ] - [ INFO ] browser is chrome !!!
-2019-03-09 21:14:30 [wysh.selenium.testcase.TestLoginExcel] - [ main:58544 ] - [ ERROR ] username is :user5
-2019-03-09 21:14:30 [wysh.selenium.testcase.TestLoginExcel] - [ main:58552 ] - [ INFO ] username is :user5
-2019-03-09 21:14:30 [wysh.selenium.testcase.TestLoginExcel] - [ main:58553 ] - [ ERROR ] password is :Ee1234
-2019-03-09 21:14:30 [wysh.selenium.testcase.TestLoginExcel] - [ main:58553 ] - [ INFO ] password is :Ee1234
-2019-03-09 21:14:34 [wysh.selenium.base.SelectDriver] - [ main:62968 ] - [ INFO ] browser is chrome !!!
-2019-03-09 21:14:38 [wysh.selenium.testcase.TestLoginExcel] - [ main:66593 ] - [ ERROR ] username is :user6
-2019-03-09 21:14:38 [wysh.selenium.testcase.TestLoginExcel] - [ main:66593 ] - [ INFO ] username is :user6
-2019-03-09 21:14:38 [wysh.selenium.testcase.TestLoginExcel] - [ main:66593 ] - [ ERROR ] password is :Ff1234
-2019-03-09 21:14:38 [wysh.selenium.testcase.TestLoginExcel] - [ main:66593 ] - [ INFO ] password is :Ff1234
-2019-03-09 21:14:45 [wysh.selenium.base.SelectDriver] - [ main:73828 ] - [ INFO ] browser is chrome !!!
-2019-03-09 21:14:49 [wysh.selenium.testcase.TestLoginExcel] - [ main:77550 ] - [ ERROR ] username is :user7
-2019-03-09 21:14:49 [wysh.selenium.testcase.TestLoginExcel] - [ main:77550 ] - [ INFO ] username is :user7
-2019-03-09 21:14:49 [wysh.selenium.testcase.TestLoginExcel] - [ main:77551 ] - [ ERROR ] password is :Gg1234
-2019-03-09 21:14:49 [wysh.selenium.testcase.TestLoginExcel] - [ main:77551 ] - [ INFO ] password is :Gg1234
-2019-03-09 21:20:35 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] browser is chrome !!!
-2019-03-09 21:20:43 [wysh.selenium.testcase.TestLoginExcel] - [ main:8835 ] - [ ERROR ] username is :admin
-2019-03-09 21:20:43 [wysh.selenium.testcase.TestLoginExcel] - [ main:8835 ] - [ INFO ] username is :admin
-2019-03-09 21:20:43 [wysh.selenium.testcase.TestLoginExcel] - [ main:8835 ] - [ ERROR ] password is :Aa1234
-2019-03-09 21:20:43 [wysh.selenium.testcase.TestLoginExcel] - [ main:8836 ] - [ INFO ] password is :Aa1234
-2019-03-09 21:20:51 [wysh.selenium.base.SelectDriver] - [ main:16566 ] - [ INFO ] browser is chrome !!!
-2019-03-09 21:20:56 [wysh.selenium.testcase.TestLoginExcel] - [ main:21687 ] - [ ERROR ] username is :admin1
-2019-03-09 21:20:56 [wysh.selenium.testcase.TestLoginExcel] - [ main:21687 ] - [ INFO ] username is :admin1
-2019-03-09 21:20:56 [wysh.selenium.testcase.TestLoginExcel] - [ main:21688 ] - [ ERROR ] password is :Bb1234
-2019-03-09 21:20:56 [wysh.selenium.testcase.TestLoginExcel] - [ main:21689 ] - [ INFO ] password is :Bb1234
-2019-03-09 21:21:04 [wysh.selenium.base.SelectDriver] - [ main:29182 ] - [ INFO ] browser is chrome !!!
-2019-03-09 21:21:09 [wysh.selenium.testcase.TestLoginExcel] - [ main:34339 ] - [ ERROR ] username is :user3
-2019-03-09 21:21:09 [wysh.selenium.testcase.TestLoginExcel] - [ main:34339 ] - [ INFO ] username is :user3
-2019-03-09 21:21:09 [wysh.selenium.testcase.TestLoginExcel] - [ main:34339 ] - [ ERROR ] password is :Cc1234
-2019-03-09 21:21:09 [wysh.selenium.testcase.TestLoginExcel] - [ main:34340 ] - [ INFO ] password is :Cc1234
-2019-03-09 21:21:16 [wysh.selenium.base.SelectDriver] - [ main:41803 ] - [ INFO ] browser is chrome !!!
-2019-03-09 21:21:21 [wysh.selenium.testcase.TestLoginExcel] - [ main:46968 ] - [ ERROR ] username is :user4
-2019-03-09 21:21:21 [wysh.selenium.testcase.TestLoginExcel] - [ main:46968 ] - [ INFO ] username is :user4
-2019-03-09 21:21:21 [wysh.selenium.testcase.TestLoginExcel] - [ main:46968 ] - [ ERROR ] password is :Dd1234
-2019-03-09 21:21:21 [wysh.selenium.testcase.TestLoginExcel] - [ main:46969 ] - [ INFO ] password is :Dd1234
-2019-03-09 21:21:29 [wysh.selenium.base.SelectDriver] - [ main:54120 ] - [ INFO ] browser is chrome !!!
-2019-03-09 21:21:34 [wysh.selenium.testcase.TestLoginExcel] - [ main:59210 ] - [ ERROR ] username is :user5
-2019-03-09 21:21:34 [wysh.selenium.testcase.TestLoginExcel] - [ main:59211 ] - [ INFO ] username is :user5
-2019-03-09 21:21:34 [wysh.selenium.testcase.TestLoginExcel] - [ main:59211 ] - [ ERROR ] password is :Ee1234
-2019-03-09 21:21:34 [wysh.selenium.testcase.TestLoginExcel] - [ main:59212 ] - [ INFO ] password is :Ee1234
-2019-03-09 21:21:42 [wysh.selenium.base.SelectDriver] - [ main:66995 ] - [ INFO ] browser is chrome !!!
-2019-03-09 21:21:47 [wysh.selenium.testcase.TestLoginExcel] - [ main:72255 ] - [ ERROR ] username is :user6
-2019-03-09 21:21:47 [wysh.selenium.testcase.TestLoginExcel] - [ main:72255 ] - [ INFO ] username is :user6
-2019-03-09 21:21:47 [wysh.selenium.testcase.TestLoginExcel] - [ main:72255 ] - [ ERROR ] password is :Ff1234
-2019-03-09 21:21:47 [wysh.selenium.testcase.TestLoginExcel] - [ main:72255 ] - [ INFO ] password is :Ff1234
-2019-03-09 21:21:54 [wysh.selenium.base.SelectDriver] - [ main:79425 ] - [ INFO ] browser is chrome !!!
-2019-03-09 21:22:00 [wysh.selenium.testcase.TestLoginExcel] - [ main:85599 ] - [ ERROR ] username is :user7
-2019-03-09 21:22:00 [wysh.selenium.testcase.TestLoginExcel] - [ main:85600 ] - [ INFO ] username is :user7
-2019-03-09 21:22:00 [wysh.selenium.testcase.TestLoginExcel] - [ main:85601 ] - [ ERROR ] password is :Gg1234
-2019-03-09 21:22:00 [wysh.selenium.testcase.TestLoginExcel] - [ main:85602 ] - [ INFO ] password is :Gg1234
+2019-03-10 15:22:57 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] browser is chrome !!!
+2019-03-10 15:42:32 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] browser is chrome !!!
+2019-03-10 15:42:48 [wysh.selenium.base.DriverBase] - [ main:16630 ] - [ INFO ] 开始截图
+2019-03-10 15:42:51 [wysh.selenium.base.DriverBase] - [ main:19037 ] - [ INFO ] 截图完成
+2019-03-10 20:05:32 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 20:05:53 [wysh.selenium.testcase.TestLoginExcel] - [ main:21326 ] - [ ERROR ] username is :admin
+2019-03-10 20:05:53 [wysh.selenium.testcase.TestLoginExcel] - [ main:21334 ] - [ INFO ] username is :admin
+2019-03-10 20:05:53 [wysh.selenium.testcase.TestLoginExcel] - [ main:21335 ] - [ ERROR ] password is :Aa1234
+2019-03-10 20:05:53 [wysh.selenium.testcase.TestLoginExcel] - [ main:21335 ] - [ INFO ] password is :Aa1234
+2019-03-10 20:05:54 [wysh.selenium.business.LoginPro] - [ main:21825 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 20:06:07 [wysh.selenium.testcase.TestLoginExcel] - [ main:34596 ] - [ ERROR ] username is :admin1
+2019-03-10 20:06:07 [wysh.selenium.testcase.TestLoginExcel] - [ main:34596 ] - [ INFO ] username is :admin1
+2019-03-10 20:06:07 [wysh.selenium.testcase.TestLoginExcel] - [ main:34597 ] - [ ERROR ] password is :Bb1234
+2019-03-10 20:06:07 [wysh.selenium.testcase.TestLoginExcel] - [ main:34598 ] - [ INFO ] password is :Bb1234
+2019-03-10 20:06:20 [wysh.selenium.testcase.TestLoginExcel] - [ main:47456 ] - [ ERROR ] username is :user3
+2019-03-10 20:06:20 [wysh.selenium.testcase.TestLoginExcel] - [ main:47457 ] - [ INFO ] username is :user3
+2019-03-10 20:06:20 [wysh.selenium.testcase.TestLoginExcel] - [ main:47457 ] - [ ERROR ] password is :Cc1234
+2019-03-10 20:06:20 [wysh.selenium.testcase.TestLoginExcel] - [ main:47458 ] - [ INFO ] password is :Cc1234
+2019-03-10 20:06:32 [wysh.selenium.testcase.TestLoginExcel] - [ main:59858 ] - [ ERROR ] username is :user4
+2019-03-10 20:06:32 [wysh.selenium.testcase.TestLoginExcel] - [ main:59858 ] - [ INFO ] username is :user4
+2019-03-10 20:06:32 [wysh.selenium.testcase.TestLoginExcel] - [ main:59860 ] - [ ERROR ] password is :Dd1234
+2019-03-10 20:06:32 [wysh.selenium.testcase.TestLoginExcel] - [ main:59860 ] - [ INFO ] password is :Dd1234
+2019-03-10 20:06:44 [wysh.selenium.testcase.TestLoginExcel] - [ main:72403 ] - [ ERROR ] username is :user5
+2019-03-10 20:06:44 [wysh.selenium.testcase.TestLoginExcel] - [ main:72404 ] - [ INFO ] username is :user5
+2019-03-10 20:06:44 [wysh.selenium.testcase.TestLoginExcel] - [ main:72404 ] - [ ERROR ] password is :Ee1234
+2019-03-10 20:06:45 [wysh.selenium.testcase.TestLoginExcel] - [ main:72405 ] - [ INFO ] password is :Ee1234
+2019-03-10 20:06:57 [wysh.selenium.testcase.TestLoginExcel] - [ main:85000 ] - [ ERROR ] username is :user6
+2019-03-10 20:06:57 [wysh.selenium.testcase.TestLoginExcel] - [ main:85000 ] - [ INFO ] username is :user6
+2019-03-10 20:06:57 [wysh.selenium.testcase.TestLoginExcel] - [ main:85001 ] - [ ERROR ] password is :Ff1234
+2019-03-10 20:06:57 [wysh.selenium.testcase.TestLoginExcel] - [ main:85001 ] - [ INFO ] password is :Ff1234
+2019-03-10 20:17:56 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 20:18:03 [wysh.selenium.testcase.TestLoginExcel] - [ main:7667 ] - [ ERROR ] username is :admin
+2019-03-10 20:18:03 [wysh.selenium.testcase.TestLoginExcel] - [ main:7668 ] - [ INFO ] username is :admin
+2019-03-10 20:18:04 [wysh.selenium.business.LoginPro] - [ main:7782 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 20:18:11 [wysh.selenium.testcase.TestLoginExcel] - [ main:15300 ] - [ ERROR ] username is :admin1
+2019-03-10 20:18:11 [wysh.selenium.testcase.TestLoginExcel] - [ main:15301 ] - [ INFO ] username is :admin1
+2019-03-10 20:18:24 [wysh.selenium.testcase.TestLoginExcel] - [ main:27900 ] - [ ERROR ] username is :user3
+2019-03-10 20:18:24 [wysh.selenium.testcase.TestLoginExcel] - [ main:27900 ] - [ INFO ] username is :user3
+2019-03-10 20:20:19 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 20:20:26 [wysh.selenium.testcase.TestLoginExcel] - [ main:7081 ] - [ ERROR ] username is :admin
+2019-03-10 20:20:26 [wysh.selenium.testcase.TestLoginExcel] - [ main:7081 ] - [ INFO ] username is :admin
+2019-03-10 20:20:26 [wysh.selenium.business.LoginPro] - [ main:7173 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 20:20:39 [wysh.selenium.testcase.TestLoginExcel] - [ main:20362 ] - [ ERROR ] username is :admin1
+2019-03-10 20:20:39 [wysh.selenium.testcase.TestLoginExcel] - [ main:20363 ] - [ INFO ] username is :admin1
+2019-03-10 20:20:52 [wysh.selenium.testcase.TestLoginExcel] - [ main:32914 ] - [ ERROR ] username is :user3
+2019-03-10 20:20:52 [wysh.selenium.testcase.TestLoginExcel] - [ main:32914 ] - [ INFO ] username is :user3
+2019-03-10 20:24:53 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 20:25:01 [wysh.selenium.business.LoginPro] - [ main:7324 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 20:25:05 [wysh.selenium.testcase.TestLoginExcel] - [ main:12130 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 20:28:11 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 20:28:21 [wysh.selenium.business.LoginPro] - [ main:9491 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 20:28:25 [wysh.selenium.business.HomePagePro] - [ main:14255 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 20:49:05 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 20:49:17 [wysh.selenium.business.LoginPro] - [ main:12081 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 20:49:24 [wysh.selenium.business.HomePagePro] - [ main:18975 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:05:03 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 21:05:17 [wysh.selenium.business.LoginPro] - [ main:13956 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:05:25 [wysh.selenium.business.HomePagePro] - [ main:21896 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:05:33 [wysh.selenium.business.LoginPro] - [ main:30097 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:05:36 [wysh.selenium.business.HomePagePro] - [ main:33375 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:05:44 [wysh.selenium.business.LoginPro] - [ main:41604 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:05:48 [wysh.selenium.business.HomePagePro] - [ main:45174 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:05:55 [wysh.selenium.business.LoginPro] - [ main:52495 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:05:59 [wysh.selenium.business.HomePagePro] - [ main:55777 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:06:06 [wysh.selenium.business.LoginPro] - [ main:63195 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:06:10 [wysh.selenium.business.HomePagePro] - [ main:66844 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:06:17 [wysh.selenium.business.LoginPro] - [ main:73961 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:06:20 [wysh.selenium.business.HomePagePro] - [ main:77022 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:06:27 [wysh.selenium.business.LoginPro] - [ main:84054 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:06:30 [wysh.selenium.business.HomePagePro] - [ main:87416 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:23:31 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 21:23:43 [wysh.selenium.business.LoginPro] - [ main:11925 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:23:49 [wysh.selenium.business.HomePagePro] - [ main:17961 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:24:01 [wysh.selenium.business.LoginPro] - [ main:29772 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:24:04 [wysh.selenium.business.HomePagePro] - [ main:32947 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:24:17 [wysh.selenium.business.LoginPro] - [ main:46218 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:24:21 [wysh.selenium.business.HomePagePro] - [ main:49350 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:24:32 [wysh.selenium.business.LoginPro] - [ main:61037 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:24:36 [wysh.selenium.business.HomePagePro] - [ main:64803 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:24:48 [wysh.selenium.business.LoginPro] - [ main:76651 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:24:51 [wysh.selenium.business.HomePagePro] - [ main:79783 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:25:03 [wysh.selenium.business.LoginPro] - [ main:91559 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:25:06 [wysh.selenium.business.HomePagePro] - [ main:94693 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:25:18 [wysh.selenium.business.LoginPro] - [ main:106522 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:25:21 [wysh.selenium.business.HomePagePro] - [ main:109643 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:49:56 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 21:50:06 [wysh.selenium.business.LoginPro] - [ main:9998 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:50:11 [wysh.selenium.business.HomePagePro] - [ main:15681 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:53:58 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 21:54:07 [wysh.selenium.business.LoginPro] - [ main:9368 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:54:14 [wysh.selenium.business.HomePagePro] - [ main:16523 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:54:21 [wysh.selenium.business.HomePagePro] - [ main:23332 ] - [ INFO ] bug before count is :0
+2019-03-10 21:54:29 [wysh.selenium.business.LoginPro] - [ main:31223 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:54:32 [wysh.selenium.business.HomePagePro] - [ main:34328 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:54:39 [wysh.selenium.business.HomePagePro] - [ main:40935 ] - [ INFO ] bug before count is :0
+2019-03-10 21:54:46 [wysh.selenium.business.LoginPro] - [ main:48185 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:54:49 [wysh.selenium.business.HomePagePro] - [ main:51456 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:54:56 [wysh.selenium.business.HomePagePro] - [ main:58227 ] - [ INFO ] bug before count is :0
+2019-03-10 21:55:03 [wysh.selenium.business.LoginPro] - [ main:65361 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:55:06 [wysh.selenium.business.HomePagePro] - [ main:68472 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:55:13 [wysh.selenium.business.HomePagePro] - [ main:75070 ] - [ INFO ] bug before count is :6
+2019-03-10 21:55:20 [wysh.selenium.business.LoginPro] - [ main:82044 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:55:23 [wysh.selenium.business.HomePagePro] - [ main:85613 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:55:30 [wysh.selenium.business.HomePagePro] - [ main:92450 ] - [ INFO ] bug before count is :7
+2019-03-10 21:55:37 [wysh.selenium.business.LoginPro] - [ main:99421 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:55:40 [wysh.selenium.business.HomePagePro] - [ main:102565 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:55:47 [wysh.selenium.business.HomePagePro] - [ main:109347 ] - [ INFO ] bug before count is :8
+2019-03-10 21:55:56 [wysh.selenium.business.LoginPro] - [ main:118067 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:55:59 [wysh.selenium.business.HomePagePro] - [ main:121238 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:56:07 [wysh.selenium.business.HomePagePro] - [ main:128841 ] - [ INFO ] bug before count is :4
+2019-03-10 22:34:54 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 22:35:02 [wysh.selenium.business.LoginPro] - [ main:8258 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 22:35:07 [wysh.selenium.business.HomePagePro] - [ main:13265 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 22:35:15 [wysh.selenium.business.HomePagePro] - [ main:20818 ] - [ INFO ] bug before count is :0
+2019-03-10 22:38:49 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 22:39:18 [wysh.selenium.business.LoginPro] - [ main:28068 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 22:39:25 [wysh.selenium.business.HomePagePro] - [ main:35770 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 22:39:34 [wysh.selenium.business.HomePagePro] - [ main:44951 ] - [ INFO ] bug before count is :0
+2019-03-10 22:41:13 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 22:41:22 [wysh.selenium.business.LoginPro] - [ main:8171 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 22:41:27 [wysh.selenium.business.HomePagePro] - [ main:13181 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 22:41:39 [wysh.selenium.business.HomePagePro] - [ main:25824 ] - [ INFO ] bug before count is :0
+2019-03-10 22:42:03 [wysh.selenium.business.HomePagePro] - [ main:49747 ] - [ INFO ] bug ahter count is :1
+2019-03-10 22:42:11 [wysh.selenium.business.LoginPro] - [ main:57892 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 22:42:14 [wysh.selenium.business.HomePagePro] - [ main:60985 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 22:42:25 [wysh.selenium.business.HomePagePro] - [ main:71066 ] - [ INFO ] bug before count is :0
+2019-03-10 22:49:34 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 22:50:56 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 22:51:05 [wysh.selenium.business.LoginPro] - [ main:9116 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 22:51:11 [wysh.selenium.business.HomePagePro] - [ main:14898 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 22:51:18 [wysh.selenium.business.HomePagePro] - [ main:21969 ] - [ INFO ] bug before count is :1
+2019-03-10 22:51:34 [wysh.selenium.business.HomePagePro] - [ main:38448 ] - [ INFO ] bug ahter count is :2
+2019-03-10 22:51:43 [wysh.selenium.business.LoginPro] - [ main:47188 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 22:51:46 [wysh.selenium.business.HomePagePro] - [ main:50010 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 22:51:53 [wysh.selenium.business.HomePagePro] - [ main:57326 ] - [ INFO ] bug before count is :0
+2019-03-10 22:55:24 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 22:55:33 [wysh.selenium.business.LoginPro] - [ main:9012 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 22:55:42 [wysh.selenium.business.HomePagePro] - [ main:18136 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 22:55:54 [wysh.selenium.business.HomePagePro] - [ main:30405 ] - [ INFO ] bug before count is :2
+2019-03-10 22:56:12 [wysh.selenium.business.HomePagePro] - [ main:48932 ] - [ INFO ] bug ahter count is :3
+2019-03-10 22:56:22 [wysh.selenium.business.LoginPro] - [ main:58263 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 22:56:25 [wysh.selenium.business.HomePagePro] - [ main:61349 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 22:56:37 [wysh.selenium.business.HomePagePro] - [ main:73726 ] - [ INFO ] bug before count is :1
+2019-03-10 23:10:52 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 23:11:02 [wysh.selenium.testcase.TestLoginExcel] - [ main:9958 ] - [ INFO ] username is :admin
+2019-03-10 23:11:02 [wysh.selenium.testcase.TestLoginExcel] - [ main:9959 ] - [ INFO ] password is :Aa1234
+2019-03-10 23:11:02 [wysh.selenium.testcase.TestLoginExcel] - [ main:9968 ] - [ INFO ] bugtitle is :这是由admin提交的bug
+2019-03-10 23:11:02 [wysh.selenium.testcase.TestLoginExcel] - [ main:9968 ] - [ INFO ] bugdetail is :这是admin提交的bug详情
+2019-03-10 23:11:02 [wysh.selenium.business.LoginPro] - [ main:10085 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 23:11:07 [wysh.selenium.business.HomePagePro] - [ main:14806 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 23:11:14 [wysh.selenium.business.HomePagePro] - [ main:22280 ] - [ INFO ] bug before count is :2
+2019-03-10 23:11:35 [wysh.selenium.business.HomePagePro] - [ main:43090 ] - [ INFO ] bug ahter count is :3
+2019-03-10 23:11:44 [wysh.selenium.testcase.TestLoginExcel] - [ main:51732 ] - [ INFO ] username is :admin1
+2019-03-10 23:11:44 [wysh.selenium.testcase.TestLoginExcel] - [ main:51733 ] - [ INFO ] password is :Bb1234
+2019-03-10 23:11:44 [wysh.selenium.testcase.TestLoginExcel] - [ main:51733 ] - [ INFO ] bugtitle is :这是由admin1提交的bug
+2019-03-10 23:11:44 [wysh.selenium.testcase.TestLoginExcel] - [ main:51733 ] - [ INFO ] bugdetail is :这是admin1提交的bug详情
+2019-03-10 23:11:44 [wysh.selenium.business.LoginPro] - [ main:51775 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 23:11:47 [wysh.selenium.business.HomePagePro] - [ main:54825 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 23:11:54 [wysh.selenium.business.HomePagePro] - [ main:61587 ] - [ INFO ] bug before count is :1
+2019-03-10 23:12:11 [wysh.selenium.business.HomePagePro] - [ main:78517 ] - [ INFO ] bug ahter count is :2
+2019-03-10 23:12:19 [wysh.selenium.testcase.TestLoginExcel] - [ main:87123 ] - [ INFO ] username is :user3
+2019-03-10 23:12:19 [wysh.selenium.testcase.TestLoginExcel] - [ main:87123 ] - [ INFO ] password is :Cc1234
+2019-03-10 23:12:19 [wysh.selenium.testcase.TestLoginExcel] - [ main:87123 ] - [ INFO ] bugtitle is :这是由user3提交的bug
+2019-03-10 23:12:19 [wysh.selenium.testcase.TestLoginExcel] - [ main:87123 ] - [ INFO ] bugdetail is :这是user3提交的bug详情
+2019-03-10 23:12:19 [wysh.selenium.business.LoginPro] - [ main:87198 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 23:12:22 [wysh.selenium.business.HomePagePro] - [ main:90134 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 23:12:31 [wysh.selenium.business.HomePagePro] - [ main:99002 ] - [ INFO ] bug before count is :0
+2019-03-10 23:12:51 [wysh.selenium.business.HomePagePro] - [ main:119285 ] - [ INFO ] bug ahter count is :1
+2019-03-10 23:13:00 [wysh.selenium.testcase.TestLoginExcel] - [ main:127873 ] - [ INFO ] username is :user4
+2019-03-10 23:13:00 [wysh.selenium.testcase.TestLoginExcel] - [ main:127874 ] - [ INFO ] password is :Dd1234
+2019-03-10 23:13:00 [wysh.selenium.testcase.TestLoginExcel] - [ main:127875 ] - [ INFO ] bugtitle is :这是由user4提交的bug
+2019-03-10 23:13:00 [wysh.selenium.testcase.TestLoginExcel] - [ main:127875 ] - [ INFO ] bugdetail is :这是user4提交的bug详情
+2019-03-10 23:13:00 [wysh.selenium.business.LoginPro] - [ main:127923 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 23:13:03 [wysh.selenium.business.HomePagePro] - [ main:131051 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 23:13:13 [wysh.selenium.business.HomePagePro] - [ main:140613 ] - [ INFO ] bug before count is :6
+2019-03-10 23:13:31 [wysh.selenium.business.HomePagePro] - [ main:158985 ] - [ INFO ] bug ahter count is :7
+2019-03-10 23:13:40 [wysh.selenium.testcase.TestLoginExcel] - [ main:167576 ] - [ INFO ] username is :user5
+2019-03-10 23:13:40 [wysh.selenium.testcase.TestLoginExcel] - [ main:167576 ] - [ INFO ] password is :Ee1234
+2019-03-10 23:13:40 [wysh.selenium.testcase.TestLoginExcel] - [ main:167576 ] - [ INFO ] bugtitle is :这是由user5提交的bug
+2019-03-10 23:13:40 [wysh.selenium.testcase.TestLoginExcel] - [ main:167577 ] - [ INFO ] bugdetail is :这是user5提交的bug详情
+2019-03-10 23:13:40 [wysh.selenium.business.LoginPro] - [ main:167616 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 23:13:43 [wysh.selenium.business.HomePagePro] - [ main:170599 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 23:13:51 [wysh.selenium.business.HomePagePro] - [ main:178899 ] - [ INFO ] bug before count is :7
+2019-03-10 23:14:08 [wysh.selenium.business.HomePagePro] - [ main:196159 ] - [ INFO ] bug ahter count is :8
+2019-03-10 23:14:17 [wysh.selenium.testcase.TestLoginExcel] - [ main:205056 ] - [ INFO ] username is :user6
+2019-03-10 23:14:17 [wysh.selenium.testcase.TestLoginExcel] - [ main:205056 ] - [ INFO ] password is :Ff1234
+2019-03-10 23:14:17 [wysh.selenium.testcase.TestLoginExcel] - [ main:205057 ] - [ INFO ] bugtitle is :这是由user6提交的bug
+2019-03-10 23:14:17 [wysh.selenium.testcase.TestLoginExcel] - [ main:205057 ] - [ INFO ] bugdetail is :这是user6提交的bug详情
+2019-03-10 23:14:17 [wysh.selenium.business.LoginPro] - [ main:205113 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 23:14:20 [wysh.selenium.business.HomePagePro] - [ main:208013 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 23:14:31 [wysh.selenium.business.HomePagePro] - [ main:219413 ] - [ INFO ] bug before count is :8
+2019-03-10 23:14:51 [wysh.selenium.business.HomePagePro] - [ main:238692 ] - [ INFO ] bug ahter count is :9
+2019-03-10 23:14:59 [wysh.selenium.testcase.TestLoginExcel] - [ main:247418 ] - [ INFO ] username is :user7
+2019-03-10 23:14:59 [wysh.selenium.testcase.TestLoginExcel] - [ main:247418 ] - [ INFO ] password is :Gg1234
+2019-03-10 23:14:59 [wysh.selenium.testcase.TestLoginExcel] - [ main:247419 ] - [ INFO ] bugtitle is :这是由user7提交的bug
+2019-03-10 23:14:59 [wysh.selenium.testcase.TestLoginExcel] - [ main:247419 ] - [ INFO ] bugdetail is :这是user7提交的bug详情
+2019-03-10 23:15:00 [wysh.selenium.business.LoginPro] - [ main:247461 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 23:15:02 [wysh.selenium.business.HomePagePro] - [ main:250365 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 23:15:12 [wysh.selenium.business.HomePagePro] - [ main:260113 ] - [ INFO ] bug before count is :4
+2019-03-10 23:15:34 [wysh.selenium.business.HomePagePro] - [ main:281430 ] - [ INFO ] bug ahter count is :5

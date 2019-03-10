@@ -44,24 +44,41 @@ public class TestLogin {
 //		// TODO Auto-generated catch block
 //		e.printStackTrace();
 //	}
-	WebElement testElement = driver.findElement(By.xpath("//*[@id=\"navbar\"]/ul/li[4]/a"));
-	testElement.click();
+	WebElement testTabElement = driver.findElement(By.xpath("//*[@id=\"navbar\"]/ul/li[4]/a"));
+	testTabElement.click();
 	 try {
 			Thread.sleep(3000);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-	 WebElement bugElement = driver.findElement(By.xpath("//*[@id=\"subNavbar\"]/ul/li[1]/a"));
-	 bugElement.click();
+//	 WebElement bugElement = driver.findElement(By.xpath("//*[@id=\"subNavbar\"]/ul/li[1]/a"));
+//	 bugElement.click();
 	 WebElement listProductElement = driver.findElement(By.xpath("//*[@id=\"currentItem\"]/span"));
 	 listProductElement.click();
+	 try {
+			Thread.sleep(1000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	WebElement chooseProductElement = driver.findElement(By.xpath("//*[@id=\"dropMenu\"]/div[2]/div/div[1]/div[1]/a[3]"));
 	chooseProductElement.click();
+	 try {
+			Thread.sleep(1000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	
 	 WebElement bugByMeElement = driver.findElement(By.xpath("//*[@id=\"mainMenu\"]/div[2]/a[3]/span[1]"));
 	 bugByMeElement.click();
-	 
+	 try {
+			Thread.sleep(1000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	 WebElement bugByMeCountElement = driver.findElement(By.xpath("//*[@id=\"mainMenu\"]/div[2]/a[3]/span[2]"));
 	 try {
 			Thread.sleep(3000);
@@ -148,7 +165,7 @@ public class TestLogin {
 		}
 //	 System.out.println("get new  url !!!!");
 //	 driver.quit();
-	 driver.get("http://127.0.0.1/zentao/bug-browse-2-0-openedbyme.html");
+//	 driver.get("http://127.0.0.1/zentao/bug-browse-2-0-openedbyme.html");
 	//*[@id="product_chosen"]/div/ul/li[3]	 
 	 
 //	 WebElement  productElement = driver.findElement(By.id("product"));
@@ -173,7 +190,7 @@ public class TestLogin {
 			}
 		 WebElement bugByMeCountElement2 = driver.findElement(By.xpath("//*[@id=\"mainMenu\"]/div[2]/a[3]/span[2]"));
 		String bugByMeCount2= bugByMeCountElement2.getText();
-		System.out.println("bug count is "+ bugByMeCount2);
+		System.out.println("after bug count is "+ bugByMeCount2);
 		int beforecount= Integer.parseInt(bugByMeCount);
 		int aftercount= Integer.parseInt(bugByMeCount2);
 		assertEquals(aftercount, beforecount+1);

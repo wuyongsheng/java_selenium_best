@@ -8,6 +8,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 import java.util.Set;
+import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
@@ -19,8 +20,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 
 import wysh.selenium.base.DriverBase;
+import wysh.selenium.util.LogsInit;
 
-public class DriverBase {
+public class DriverBase extends LogsInit{
     public WebDriver driver;
 	public DriverBase(String browser) {
        SelectDriver select = new SelectDriver();
@@ -33,7 +35,9 @@ public class DriverBase {
 	public WebDriver getDriver() {
 		return driver;
 	}
-	
+	/**
+	 * 关闭浏览器
+	 */
 	public void close() {
 		System.out.println("stop webdriver");
 		driver.close();
@@ -61,11 +65,11 @@ public class DriverBase {
 		SimpleDateFormat sf = new SimpleDateFormat("yyyy_MM_dd_HH_mm_ss");
 		Calendar cal = Calendar.getInstance();
 		Date date = cal.getTime();
-		System.out.println(date);
+//		System.out.println(date);
 		String dateStr = sf.format(date);
-		System.out.println(dateStr);
+//		System.out.println(dateStr);
 		String path = this.getClass().getSimpleName()+"_"+dateStr+".png";
-		System.out.println(path);
+//		System.out.println(path);
 		takeScreenShot((TakesScreenshot) this.getDriver(), path);
 	}
 	
@@ -74,7 +78,8 @@ public class DriverBase {
     * */
 	public void takeScreenShot(TakesScreenshot drivername ,String path) {
 		String currentPath = System.getProperty("user.dir");
-		System.out.println(currentPath);
+//		System.out.println(currentPath);
+		log.info("开始截图");
 		File scrFile = drivername.getScreenshotAs(OutputType.FILE);
 		try {
 			FileUtils.copyFile(scrFile, new File(currentPath+"\\"+path));
@@ -82,7 +87,8 @@ public class DriverBase {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}finally {
-			System.out.println("截图成功了！");
+//			System.out.println("截图成功了！");
+			log.info("截图完成");
 		}
 	}
 	
@@ -151,6 +157,21 @@ public class DriverBase {
 	  driver.switchTo().window(name);
   }
 
+  /**
+   * 切换到指定的frame
+   * @param WebElement frame
+   */
+  public void switchFrame(WebElement frame) {
+	  driver.switchTo().frame(frame);
+  }
+  
+  /**
+   * 切换到到默认的区域
+   */
+  public void switchDefault() {
+	  driver.switchTo().defaultContent();
+  }
+  
   /*
    * 模态框切换
    * */
@@ -200,8 +221,8 @@ public class DriverBase {
         DriverBase db = new DriverBase("ddf");
         WebDriver dr = db.driver;
         dr.get("http://wysh.site");
-//       db.takeScreenShot();
-		db.takeScreenShot((TakesScreenshot) dr, "shot"+"//"+"123.png");
+       db.takeScreenShot();
+//		db.takeScreenShot((TakesScreenshot) dr, "shot"+"//"+"123.png");
 		try {
 			Thread.sleep(5000);
 		} catch (InterruptedException e) {
@@ -209,7 +230,13 @@ public class DriverBase {
 			e.printStackTrace();
 		}
 	   dr.close();
-
+	}
+	/**
+	 * 隐式等待
+	 * @param int time 最长等待时间
+	 */
+	public void impliWait(int time) {
+	driver.manage().timeouts().implicitlyWait(time, TimeUnit.SECONDS);
 	}
 
 }

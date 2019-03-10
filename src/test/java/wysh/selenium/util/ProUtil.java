@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
-public class ProUtil {
+public class ProUtil extends LogsInit {
 	
 	private Properties prop;
 	private String filepath;
@@ -48,7 +48,8 @@ public class ProUtil {
 			String username = prop.getProperty(key);
 			return username;
 		}else {
-			System.out.println("你输入的key不对");
+//			System.out.println("你输入的key不对");
+			log.error("你输入的key不对");
 			return "";
 		}
 	}
@@ -75,7 +76,7 @@ public class ProUtil {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
       ProUtil p = new ProUtil("element.properties");
-      String s = p.getPro("addCart");
+      String s = p.getPro("nameinfo");
       System.out.println(s);
 	}
 

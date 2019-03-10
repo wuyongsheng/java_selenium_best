@@ -9,11 +9,11 @@ import wysh.selenium.util.LogsInit;
 public class SelectDriver extends LogsInit {
 		public WebDriver driverName(String browser) {
 			if(browser.equalsIgnoreCase("firefox")) {
-				log.info("browser is firefox !!!");
+				log.info("start browser ，and browser is firefox !!!");
 				return new FirefoxDriver();
 			}else
 			{
-				log.info("browser is chrome !!!");
+				log.info("start browser ，and browser is chrome !!!");
 				return new ChromeDriver();
 			}
 			
