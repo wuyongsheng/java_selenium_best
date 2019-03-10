@@ -132,7 +132,7 @@ public class TestLogin {
 //		 e.printStackTrace();
 //	 }
 	 WebElement  eVersionElement = driver.findElement(By.xpath("//*[@id=\"openedBuild_chosen\"]/div/ul/li"));
-	 eVersionElement.click();
+	 eVersionElement.click(); 
 	 WebElement   titleElement  = driver.findElement(By.id("title"));
 	 titleElement.sendKeys("这是标题777，by user7");
 	 WebElement frameEmlement = driver.findElement(By.className("ke-edit-iframe"));
@@ -167,12 +167,6 @@ public class TestLogin {
 //	 System.out.println(productSelect.isMultiple());
 //	 productSelect.selectByValue("2");
 //	 driver.navigate().refresh();
-//	 try {
-//			Thread.sleep(3000);
-//		} catch (InterruptedException e) {
-//			// TODO Auto-generated catch block
-//			e.printStackTrace();
-//		}
 //	 System.out.println("title is :"+driver.getTitle());
 	 WebElement bugByMeElement2 = driver.findElement(By.xpath("//*[@id=\"mainMenu\"]/div[2]/a[3]/span[1]"));
 	   bugByMeElement2.click();
