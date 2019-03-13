@@ -1,200 +1,313 @@
-2019-03-10 15:22:57 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] browser is chrome !!!
-2019-03-10 15:42:32 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] browser is chrome !!!
-2019-03-10 15:42:48 [wysh.selenium.base.DriverBase] - [ main:16630 ] - [ INFO ] å¼€å§‹æˆªå›¾
-2019-03-10 15:42:51 [wysh.selenium.base.DriverBase] - [ main:19037 ] - [ INFO ] æˆªå›¾å®Œæˆ
-2019-03-10 20:05:32 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
-2019-03-10 20:05:53 [wysh.selenium.testcase.TestLoginExcel] - [ main:21326 ] - [ ERROR ] username is :admin
-2019-03-10 20:05:53 [wysh.selenium.testcase.TestLoginExcel] - [ main:21334 ] - [ INFO ] username is :admin
-2019-03-10 20:05:53 [wysh.selenium.testcase.TestLoginExcel] - [ main:21335 ] - [ ERROR ] password is :Aa1234
-2019-03-10 20:05:53 [wysh.selenium.testcase.TestLoginExcel] - [ main:21335 ] - [ INFO ] password is :Aa1234
-2019-03-10 20:05:54 [wysh.selenium.business.LoginPro] - [ main:21825 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 20:06:07 [wysh.selenium.testcase.TestLoginExcel] - [ main:34596 ] - [ ERROR ] username is :admin1
-2019-03-10 20:06:07 [wysh.selenium.testcase.TestLoginExcel] - [ main:34596 ] - [ INFO ] username is :admin1
-2019-03-10 20:06:07 [wysh.selenium.testcase.TestLoginExcel] - [ main:34597 ] - [ ERROR ] password is :Bb1234
-2019-03-10 20:06:07 [wysh.selenium.testcase.TestLoginExcel] - [ main:34598 ] - [ INFO ] password is :Bb1234
-2019-03-10 20:06:20 [wysh.selenium.testcase.TestLoginExcel] - [ main:47456 ] - [ ERROR ] username is :user3
-2019-03-10 20:06:20 [wysh.selenium.testcase.TestLoginExcel] - [ main:47457 ] - [ INFO ] username is :user3
-2019-03-10 20:06:20 [wysh.selenium.testcase.TestLoginExcel] - [ main:47457 ] - [ ERROR ] password is :Cc1234
-2019-03-10 20:06:20 [wysh.selenium.testcase.TestLoginExcel] - [ main:47458 ] - [ INFO ] password is :Cc1234
-2019-03-10 20:06:32 [wysh.selenium.testcase.TestLoginExcel] - [ main:59858 ] - [ ERROR ] username is :user4
-2019-03-10 20:06:32 [wysh.selenium.testcase.TestLoginExcel] - [ main:59858 ] - [ INFO ] username is :user4
-2019-03-10 20:06:32 [wysh.selenium.testcase.TestLoginExcel] - [ main:59860 ] - [ ERROR ] password is :Dd1234
-2019-03-10 20:06:32 [wysh.selenium.testcase.TestLoginExcel] - [ main:59860 ] - [ INFO ] password is :Dd1234
-2019-03-10 20:06:44 [wysh.selenium.testcase.TestLoginExcel] - [ main:72403 ] - [ ERROR ] username is :user5
-2019-03-10 20:06:44 [wysh.selenium.testcase.TestLoginExcel] - [ main:72404 ] - [ INFO ] username is :user5
-2019-03-10 20:06:44 [wysh.selenium.testcase.TestLoginExcel] - [ main:72404 ] - [ ERROR ] password is :Ee1234
-2019-03-10 20:06:45 [wysh.selenium.testcase.TestLoginExcel] - [ main:72405 ] - [ INFO ] password is :Ee1234
-2019-03-10 20:06:57 [wysh.selenium.testcase.TestLoginExcel] - [ main:85000 ] - [ ERROR ] username is :user6
-2019-03-10 20:06:57 [wysh.selenium.testcase.TestLoginExcel] - [ main:85000 ] - [ INFO ] username is :user6
-2019-03-10 20:06:57 [wysh.selenium.testcase.TestLoginExcel] - [ main:85001 ] - [ ERROR ] password is :Ff1234
-2019-03-10 20:06:57 [wysh.selenium.testcase.TestLoginExcel] - [ main:85001 ] - [ INFO ] password is :Ff1234
-2019-03-10 20:17:56 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
-2019-03-10 20:18:03 [wysh.selenium.testcase.TestLoginExcel] - [ main:7667 ] - [ ERROR ] username is :admin
-2019-03-10 20:18:03 [wysh.selenium.testcase.TestLoginExcel] - [ main:7668 ] - [ INFO ] username is :admin
-2019-03-10 20:18:04 [wysh.selenium.business.LoginPro] - [ main:7782 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 20:18:11 [wysh.selenium.testcase.TestLoginExcel] - [ main:15300 ] - [ ERROR ] username is :admin1
-2019-03-10 20:18:11 [wysh.selenium.testcase.TestLoginExcel] - [ main:15301 ] - [ INFO ] username is :admin1
-2019-03-10 20:18:24 [wysh.selenium.testcase.TestLoginExcel] - [ main:27900 ] - [ ERROR ] username is :user3
-2019-03-10 20:18:24 [wysh.selenium.testcase.TestLoginExcel] - [ main:27900 ] - [ INFO ] username is :user3
-2019-03-10 20:20:19 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
-2019-03-10 20:20:26 [wysh.selenium.testcase.TestLoginExcel] - [ main:7081 ] - [ ERROR ] username is :admin
-2019-03-10 20:20:26 [wysh.selenium.testcase.TestLoginExcel] - [ main:7081 ] - [ INFO ] username is :admin
-2019-03-10 20:20:26 [wysh.selenium.business.LoginPro] - [ main:7173 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 20:20:39 [wysh.selenium.testcase.TestLoginExcel] - [ main:20362 ] - [ ERROR ] username is :admin1
-2019-03-10 20:20:39 [wysh.selenium.testcase.TestLoginExcel] - [ main:20363 ] - [ INFO ] username is :admin1
-2019-03-10 20:20:52 [wysh.selenium.testcase.TestLoginExcel] - [ main:32914 ] - [ ERROR ] username is :user3
-2019-03-10 20:20:52 [wysh.selenium.testcase.TestLoginExcel] - [ main:32914 ] - [ INFO ] username is :user3
-2019-03-10 20:24:53 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
-2019-03-10 20:25:01 [wysh.selenium.business.LoginPro] - [ main:7324 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 20:25:05 [wysh.selenium.testcase.TestLoginExcel] - [ main:12130 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 20:28:11 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
-2019-03-10 20:28:21 [wysh.selenium.business.LoginPro] - [ main:9491 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 20:28:25 [wysh.selenium.business.HomePagePro] - [ main:14255 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 20:49:05 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
-2019-03-10 20:49:17 [wysh.selenium.business.LoginPro] - [ main:12081 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 20:49:24 [wysh.selenium.business.HomePagePro] - [ main:18975 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:05:03 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
-2019-03-10 21:05:17 [wysh.selenium.business.LoginPro] - [ main:13956 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:05:25 [wysh.selenium.business.HomePagePro] - [ main:21896 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:05:33 [wysh.selenium.business.LoginPro] - [ main:30097 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:05:36 [wysh.selenium.business.HomePagePro] - [ main:33375 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:05:44 [wysh.selenium.business.LoginPro] - [ main:41604 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:05:48 [wysh.selenium.business.HomePagePro] - [ main:45174 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:05:55 [wysh.selenium.business.LoginPro] - [ main:52495 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:05:59 [wysh.selenium.business.HomePagePro] - [ main:55777 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:06:06 [wysh.selenium.business.LoginPro] - [ main:63195 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:06:10 [wysh.selenium.business.HomePagePro] - [ main:66844 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:06:17 [wysh.selenium.business.LoginPro] - [ main:73961 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:06:20 [wysh.selenium.business.HomePagePro] - [ main:77022 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:06:27 [wysh.selenium.business.LoginPro] - [ main:84054 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:06:30 [wysh.selenium.business.HomePagePro] - [ main:87416 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:23:31 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
-2019-03-10 21:23:43 [wysh.selenium.business.LoginPro] - [ main:11925 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:23:49 [wysh.selenium.business.HomePagePro] - [ main:17961 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:24:01 [wysh.selenium.business.LoginPro] - [ main:29772 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:24:04 [wysh.selenium.business.HomePagePro] - [ main:32947 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:24:17 [wysh.selenium.business.LoginPro] - [ main:46218 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:24:21 [wysh.selenium.business.HomePagePro] - [ main:49350 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:24:32 [wysh.selenium.business.LoginPro] - [ main:61037 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:24:36 [wysh.selenium.business.HomePagePro] - [ main:64803 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:24:48 [wysh.selenium.business.LoginPro] - [ main:76651 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:24:51 [wysh.selenium.business.HomePagePro] - [ main:79783 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:25:03 [wysh.selenium.business.LoginPro] - [ main:91559 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:25:06 [wysh.selenium.business.HomePagePro] - [ main:94693 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:25:18 [wysh.selenium.business.LoginPro] - [ main:106522 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:25:21 [wysh.selenium.business.HomePagePro] - [ main:109643 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:49:56 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
-2019-03-10 21:50:06 [wysh.selenium.business.LoginPro] - [ main:9998 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:50:11 [wysh.selenium.business.HomePagePro] - [ main:15681 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:53:58 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
-2019-03-10 21:54:07 [wysh.selenium.business.LoginPro] - [ main:9368 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:54:14 [wysh.selenium.business.HomePagePro] - [ main:16523 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:54:21 [wysh.selenium.business.HomePagePro] - [ main:23332 ] - [ INFO ] bug before count is :0
-2019-03-10 21:54:29 [wysh.selenium.business.LoginPro] - [ main:31223 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:54:32 [wysh.selenium.business.HomePagePro] - [ main:34328 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:54:39 [wysh.selenium.business.HomePagePro] - [ main:40935 ] - [ INFO ] bug before count is :0
-2019-03-10 21:54:46 [wysh.selenium.business.LoginPro] - [ main:48185 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:54:49 [wysh.selenium.business.HomePagePro] - [ main:51456 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:54:56 [wysh.selenium.business.HomePagePro] - [ main:58227 ] - [ INFO ] bug before count is :0
-2019-03-10 21:55:03 [wysh.selenium.business.LoginPro] - [ main:65361 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:55:06 [wysh.selenium.business.HomePagePro] - [ main:68472 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:55:13 [wysh.selenium.business.HomePagePro] - [ main:75070 ] - [ INFO ] bug before count is :6
-2019-03-10 21:55:20 [wysh.selenium.business.LoginPro] - [ main:82044 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:55:23 [wysh.selenium.business.HomePagePro] - [ main:85613 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:55:30 [wysh.selenium.business.HomePagePro] - [ main:92450 ] - [ INFO ] bug before count is :7
-2019-03-10 21:55:37 [wysh.selenium.business.LoginPro] - [ main:99421 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:55:40 [wysh.selenium.business.HomePagePro] - [ main:102565 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:55:47 [wysh.selenium.business.HomePagePro] - [ main:109347 ] - [ INFO ] bug before count is :8
-2019-03-10 21:55:56 [wysh.selenium.business.LoginPro] - [ main:118067 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 21:55:59 [wysh.selenium.business.HomePagePro] - [ main:121238 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 21:56:07 [wysh.selenium.business.HomePagePro] - [ main:128841 ] - [ INFO ] bug before count is :4
-2019-03-10 22:34:54 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
-2019-03-10 22:35:02 [wysh.selenium.business.LoginPro] - [ main:8258 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 22:35:07 [wysh.selenium.business.HomePagePro] - [ main:13265 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 22:35:15 [wysh.selenium.business.HomePagePro] - [ main:20818 ] - [ INFO ] bug before count is :0
-2019-03-10 22:38:49 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
-2019-03-10 22:39:18 [wysh.selenium.business.LoginPro] - [ main:28068 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 22:39:25 [wysh.selenium.business.HomePagePro] - [ main:35770 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 22:39:34 [wysh.selenium.business.HomePagePro] - [ main:44951 ] - [ INFO ] bug before count is :0
-2019-03-10 22:41:13 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
-2019-03-10 22:41:22 [wysh.selenium.business.LoginPro] - [ main:8171 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 22:41:27 [wysh.selenium.business.HomePagePro] - [ main:13181 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 22:41:39 [wysh.selenium.business.HomePagePro] - [ main:25824 ] - [ INFO ] bug before count is :0
-2019-03-10 22:42:03 [wysh.selenium.business.HomePagePro] - [ main:49747 ] - [ INFO ] bug ahter count is :1
-2019-03-10 22:42:11 [wysh.selenium.business.LoginPro] - [ main:57892 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 22:42:14 [wysh.selenium.business.HomePagePro] - [ main:60985 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 22:42:25 [wysh.selenium.business.HomePagePro] - [ main:71066 ] - [ INFO ] bug before count is :0
-2019-03-10 22:49:34 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
-2019-03-10 22:50:56 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
-2019-03-10 22:51:05 [wysh.selenium.business.LoginPro] - [ main:9116 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 22:51:11 [wysh.selenium.business.HomePagePro] - [ main:14898 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 22:51:18 [wysh.selenium.business.HomePagePro] - [ main:21969 ] - [ INFO ] bug before count is :1
-2019-03-10 22:51:34 [wysh.selenium.business.HomePagePro] - [ main:38448 ] - [ INFO ] bug ahter count is :2
-2019-03-10 22:51:43 [wysh.selenium.business.LoginPro] - [ main:47188 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 22:51:46 [wysh.selenium.business.HomePagePro] - [ main:50010 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 22:51:53 [wysh.selenium.business.HomePagePro] - [ main:57326 ] - [ INFO ] bug before count is :0
-2019-03-10 22:55:24 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
-2019-03-10 22:55:33 [wysh.selenium.business.LoginPro] - [ main:9012 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 22:55:42 [wysh.selenium.business.HomePagePro] - [ main:18136 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 22:55:54 [wysh.selenium.business.HomePagePro] - [ main:30405 ] - [ INFO ] bug before count is :2
-2019-03-10 22:56:12 [wysh.selenium.business.HomePagePro] - [ main:48932 ] - [ INFO ] bug ahter count is :3
-2019-03-10 22:56:22 [wysh.selenium.business.LoginPro] - [ main:58263 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 22:56:25 [wysh.selenium.business.HomePagePro] - [ main:61349 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 22:56:37 [wysh.selenium.business.HomePagePro] - [ main:73726 ] - [ INFO ] bug before count is :1
-2019-03-10 23:10:52 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
-2019-03-10 23:11:02 [wysh.selenium.testcase.TestLoginExcel] - [ main:9958 ] - [ INFO ] username is :admin
-2019-03-10 23:11:02 [wysh.selenium.testcase.TestLoginExcel] - [ main:9959 ] - [ INFO ] password is :Aa1234
-2019-03-10 23:11:02 [wysh.selenium.testcase.TestLoginExcel] - [ main:9968 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±adminæäº¤çš„bug
-2019-03-10 23:11:02 [wysh.selenium.testcase.TestLoginExcel] - [ main:9968 ] - [ INFO ] bugdetail is :è¿™æ˜¯adminæäº¤çš„bugè¯¦æƒ…
-2019-03-10 23:11:02 [wysh.selenium.business.LoginPro] - [ main:10085 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 23:11:07 [wysh.selenium.business.HomePagePro] - [ main:14806 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 23:11:14 [wysh.selenium.business.HomePagePro] - [ main:22280 ] - [ INFO ] bug before count is :2
-2019-03-10 23:11:35 [wysh.selenium.business.HomePagePro] - [ main:43090 ] - [ INFO ] bug ahter count is :3
-2019-03-10 23:11:44 [wysh.selenium.testcase.TestLoginExcel] - [ main:51732 ] - [ INFO ] username is :admin1
-2019-03-10 23:11:44 [wysh.selenium.testcase.TestLoginExcel] - [ main:51733 ] - [ INFO ] password is :Bb1234
-2019-03-10 23:11:44 [wysh.selenium.testcase.TestLoginExcel] - [ main:51733 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±admin1æäº¤çš„bug
-2019-03-10 23:11:44 [wysh.selenium.testcase.TestLoginExcel] - [ main:51733 ] - [ INFO ] bugdetail is :è¿™æ˜¯admin1æäº¤çš„bugè¯¦æƒ…
-2019-03-10 23:11:44 [wysh.selenium.business.LoginPro] - [ main:51775 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 23:11:47 [wysh.selenium.business.HomePagePro] - [ main:54825 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 23:11:54 [wysh.selenium.business.HomePagePro] - [ main:61587 ] - [ INFO ] bug before count is :1
-2019-03-10 23:12:11 [wysh.selenium.business.HomePagePro] - [ main:78517 ] - [ INFO ] bug ahter count is :2
-2019-03-10 23:12:19 [wysh.selenium.testcase.TestLoginExcel] - [ main:87123 ] - [ INFO ] username is :user3
-2019-03-10 23:12:19 [wysh.selenium.testcase.TestLoginExcel] - [ main:87123 ] - [ INFO ] password is :Cc1234
-2019-03-10 23:12:19 [wysh.selenium.testcase.TestLoginExcel] - [ main:87123 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±user3æäº¤çš„bug
-2019-03-10 23:12:19 [wysh.selenium.testcase.TestLoginExcel] - [ main:87123 ] - [ INFO ] bugdetail is :è¿™æ˜¯user3æäº¤çš„bugè¯¦æƒ…
-2019-03-10 23:12:19 [wysh.selenium.business.LoginPro] - [ main:87198 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 23:12:22 [wysh.selenium.business.HomePagePro] - [ main:90134 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 23:12:31 [wysh.selenium.business.HomePagePro] - [ main:99002 ] - [ INFO ] bug before count is :0
-2019-03-10 23:12:51 [wysh.selenium.business.HomePagePro] - [ main:119285 ] - [ INFO ] bug ahter count is :1
-2019-03-10 23:13:00 [wysh.selenium.testcase.TestLoginExcel] - [ main:127873 ] - [ INFO ] username is :user4
-2019-03-10 23:13:00 [wysh.selenium.testcase.TestLoginExcel] - [ main:127874 ] - [ INFO ] password is :Dd1234
-2019-03-10 23:13:00 [wysh.selenium.testcase.TestLoginExcel] - [ main:127875 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±user4æäº¤çš„bug
-2019-03-10 23:13:00 [wysh.selenium.testcase.TestLoginExcel] - [ main:127875 ] - [ INFO ] bugdetail is :è¿™æ˜¯user4æäº¤çš„bugè¯¦æƒ…
-2019-03-10 23:13:00 [wysh.selenium.business.LoginPro] - [ main:127923 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 23:13:03 [wysh.selenium.business.HomePagePro] - [ main:131051 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 23:13:13 [wysh.selenium.business.HomePagePro] - [ main:140613 ] - [ INFO ] bug before count is :6
-2019-03-10 23:13:31 [wysh.selenium.business.HomePagePro] - [ main:158985 ] - [ INFO ] bug ahter count is :7
-2019-03-10 23:13:40 [wysh.selenium.testcase.TestLoginExcel] - [ main:167576 ] - [ INFO ] username is :user5
-2019-03-10 23:13:40 [wysh.selenium.testcase.TestLoginExcel] - [ main:167576 ] - [ INFO ] password is :Ee1234
-2019-03-10 23:13:40 [wysh.selenium.testcase.TestLoginExcel] - [ main:167576 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±user5æäº¤çš„bug
-2019-03-10 23:13:40 [wysh.selenium.testcase.TestLoginExcel] - [ main:167577 ] - [ INFO ] bugdetail is :è¿™æ˜¯user5æäº¤çš„bugè¯¦æƒ…
-2019-03-10 23:13:40 [wysh.selenium.business.LoginPro] - [ main:167616 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 23:13:43 [wysh.selenium.business.HomePagePro] - [ main:170599 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 23:13:51 [wysh.selenium.business.HomePagePro] - [ main:178899 ] - [ INFO ] bug before count is :7
-2019-03-10 23:14:08 [wysh.selenium.business.HomePagePro] - [ main:196159 ] - [ INFO ] bug ahter count is :8
-2019-03-10 23:14:17 [wysh.selenium.testcase.TestLoginExcel] - [ main:205056 ] - [ INFO ] username is :user6
-2019-03-10 23:14:17 [wysh.selenium.testcase.TestLoginExcel] - [ main:205056 ] - [ INFO ] password is :Ff1234
-2019-03-10 23:14:17 [wysh.selenium.testcase.TestLoginExcel] - [ main:205057 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±user6æäº¤çš„bug
-2019-03-10 23:14:17 [wysh.selenium.testcase.TestLoginExcel] - [ main:205057 ] - [ INFO ] bugdetail is :è¿™æ˜¯user6æäº¤çš„bugè¯¦æƒ…
-2019-03-10 23:14:17 [wysh.selenium.business.LoginPro] - [ main:205113 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 23:14:20 [wysh.selenium.business.HomePagePro] - [ main:208013 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 23:14:31 [wysh.selenium.business.HomePagePro] - [ main:219413 ] - [ INFO ] bug before count is :8
-2019-03-10 23:14:51 [wysh.selenium.business.HomePagePro] - [ main:238692 ] - [ INFO ] bug ahter count is :9
-2019-03-10 23:14:59 [wysh.selenium.testcase.TestLoginExcel] - [ main:247418 ] - [ INFO ] username is :user7
-2019-03-10 23:14:59 [wysh.selenium.testcase.TestLoginExcel] - [ main:247418 ] - [ INFO ] password is :Gg1234
-2019-03-10 23:14:59 [wysh.selenium.testcase.TestLoginExcel] - [ main:247419 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±user7æäº¤çš„bug
-2019-03-10 23:14:59 [wysh.selenium.testcase.TestLoginExcel] - [ main:247419 ] - [ INFO ] bugdetail is :è¿™æ˜¯user7æäº¤çš„bugè¯¦æƒ…
-2019-03-10 23:15:00 [wysh.selenium.business.LoginPro] - [ main:247461 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
-2019-03-10 23:15:02 [wysh.selenium.business.HomePagePro] - [ main:250365 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
-2019-03-10 23:15:12 [wysh.selenium.business.HomePagePro] - [ main:260113 ] - [ INFO ] bug before count is :4
-2019-03-10 23:15:34 [wysh.selenium.business.HomePagePro] - [ main:281430 ] - [ INFO ] bug ahter count is :5
+2019-03-13 00:37:07 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
+2019-03-13 00:37:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18486 ] - [ INFO ] username is :admin
+2019-03-13 00:37:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18487 ] - [ INFO ] password is :Aa1234
+2019-03-13 00:37:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18488 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±adminæäº¤çš„bug4
+2019-03-13 00:37:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:18491 ] - [ INFO ] bugdetail is :è¿™æ˜¯adminæäº¤çš„bugè¯¦æƒ…4
+2019-03-13 00:37:26 [wysh.selenium.business.LoginPro] - [ main:18648 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
+2019-03-13 00:37:31 [wysh.selenium.business.HomePagePro] - [ main:23857 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
+2019-03-13 00:37:38 [wysh.selenium.business.HomePagePro] - [ main:31254 ] - [ INFO ] bug before count is :13
+2019-03-13 00:37:56 [wysh.selenium.business.HomePagePro] - [ main:48928 ] - [ INFO ] bug after count is :14
+2019-03-13 00:38:05 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:57769 ] - [ INFO ] username is :admin1
+2019-03-13 00:38:05 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:57771 ] - [ INFO ] password is :Bb12345
+2019-03-13 00:38:05 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:57771 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±admin1æäº¤çš„bug4
+2019-03-13 00:38:05 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:57771 ] - [ INFO ] bugdetail is :è¿™æ˜¯admin1æäº¤çš„bugè¯¦æƒ…4
+2019-03-13 00:38:05 [wysh.selenium.business.LoginPro] - [ main:57816 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
+2019-03-13 00:38:08 [wysh.selenium.business.HomePagePro] - [ main:60697 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
+2019-03-13 00:38:09 [wysh.selenium.util.TestngRetry] - [ main:61944 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-13 00:38:09 [wysh.selenium.util.TestngRetry] - [ main:61968 ] - [ INFO ] é‡è¯•ç¬¬ï¼š1æ¬¡ï¼
+2019-03-13 00:38:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:64075 ] - [ INFO ] username is :admin1
+2019-03-13 00:38:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:64075 ] - [ INFO ] password is :Bb12345
+2019-03-13 00:38:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:64075 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±admin1æäº¤çš„bug4
+2019-03-13 00:38:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:64075 ] - [ INFO ] bugdetail is :è¿™æ˜¯admin1æäº¤çš„bugè¯¦æƒ…4
+2019-03-13 00:38:11 [wysh.selenium.util.TestngRetry] - [ main:64105 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-13 00:38:11 [wysh.selenium.util.TestngRetry] - [ main:64106 ] - [ INFO ] é‡è¯•ç¬¬ï¼š2æ¬¡ï¼
+2019-03-13 00:38:13 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:66162 ] - [ INFO ] username is :admin1
+2019-03-13 00:38:13 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:66163 ] - [ INFO ] password is :Bb12345
+2019-03-13 00:38:13 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:66164 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±admin1æäº¤çš„bug4
+2019-03-13 00:38:13 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:66165 ] - [ INFO ] bugdetail is :è¿™æ˜¯admin1æäº¤çš„bugè¯¦æƒ…4
+2019-03-13 00:38:13 [wysh.selenium.util.TestngRetry] - [ main:66181 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-13 00:38:13 [wysh.selenium.util.TestngRetry] - [ main:66182 ] - [ INFO ] é‡è¯•ç¬¬ï¼š3æ¬¡ï¼
+2019-03-13 00:38:15 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:68242 ] - [ INFO ] username is :admin1
+2019-03-13 00:38:15 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:68242 ] - [ INFO ] password is :Bb12345
+2019-03-13 00:38:15 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:68242 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±admin1æäº¤çš„bug4
+2019-03-13 00:38:15 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:68243 ] - [ INFO ] bugdetail is :è¿™æ˜¯admin1æäº¤çš„bugè¯¦æƒ…4
+2019-03-13 00:38:15 [wysh.selenium.util.TestngRetry] - [ main:68272 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-13 00:38:15 [wysh.selenium.base.DriverBase] - [ main:68277 ] - [ INFO ] å¼€å§‹æˆªå›¾
+2019-03-13 00:38:17 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:70326 ] - [ INFO ] username is :user3
+2019-03-13 00:38:17 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:70326 ] - [ INFO ] password is :Cc1234
+2019-03-13 00:38:17 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:70326 ] - [ INFO ] bugtitle is :
+2019-03-13 00:38:17 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:70326 ] - [ INFO ] bugdetail is :è¿™æ˜¯user3æäº¤çš„bugè¯¦æƒ…3
+2019-03-13 00:38:17 [wysh.selenium.util.TestngRetry] - [ main:70341 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-13 00:38:17 [wysh.selenium.base.DriverBase] - [ main:70347 ] - [ INFO ] å¼€å§‹æˆªå›¾
+2019-03-13 00:38:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:72420 ] - [ INFO ] username is :user3
+2019-03-13 00:38:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:72420 ] - [ INFO ] password is :Cc1234
+2019-03-13 00:38:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:72421 ] - [ INFO ] bugtitle is :
+2019-03-13 00:38:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:72422 ] - [ INFO ] bugdetail is :è¿™æ˜¯user3æäº¤çš„bugè¯¦æƒ…3
+2019-03-13 00:38:20 [wysh.selenium.util.TestngRetry] - [ main:72435 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-13 00:38:20 [wysh.selenium.base.DriverBase] - [ main:72442 ] - [ INFO ] å¼€å§‹æˆªå›¾
+2019-03-13 00:38:22 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:74458 ] - [ INFO ] username is :user4
+2019-03-13 00:38:22 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:74458 ] - [ INFO ] password is :Dd1234
+2019-03-13 00:38:22 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:74458 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±user4æäº¤çš„bug4
+2019-03-13 00:38:22 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:74458 ] - [ INFO ] bugdetail is :è¿™æ˜¯user4æäº¤çš„bugè¯¦æƒ…4
+2019-03-13 00:38:22 [wysh.selenium.util.TestngRetry] - [ main:74478 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-13 00:38:22 [wysh.selenium.base.DriverBase] - [ main:74482 ] - [ INFO ] å¼€å§‹æˆªå›¾
+2019-03-13 00:38:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:76538 ] - [ INFO ] username is :user4
+2019-03-13 00:38:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:76538 ] - [ INFO ] password is :Dd1234
+2019-03-13 00:38:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:76538 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±user4æäº¤çš„bug4
+2019-03-13 00:38:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:76538 ] - [ INFO ] bugdetail is :è¿™æ˜¯user4æäº¤çš„bugè¯¦æƒ…4
+2019-03-13 00:38:24 [wysh.selenium.util.TestngRetry] - [ main:76551 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-13 00:38:24 [wysh.selenium.base.DriverBase] - [ main:76690 ] - [ INFO ] å¼€å§‹æˆªå›¾
+2019-03-13 00:42:41 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
+2019-03-13 00:42:50 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:9527 ] - [ INFO ] username is :admin
+2019-03-13 00:42:50 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:9528 ] - [ INFO ] password is :Aa1234
+2019-03-13 00:42:50 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:9529 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±adminæäº¤çš„bug4
+2019-03-13 00:42:50 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:9532 ] - [ INFO ] bugdetail is :è¿™æ˜¯adminæäº¤çš„bugè¯¦æƒ…4
+2019-03-13 00:42:50 [wysh.selenium.business.LoginPro] - [ main:9658 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
+2019-03-13 00:42:56 [wysh.selenium.business.HomePagePro] - [ main:15375 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
+2019-03-13 00:43:13 [wysh.selenium.business.HomePagePro] - [ main:32820 ] - [ INFO ] bug before count is :14
+2019-03-13 00:43:49 [wysh.selenium.business.HomePagePro] - [ main:68213 ] - [ INFO ] bug after count is :15
+2019-03-13 00:44:00 [wysh.selenium.base.SelectDriver] - [ main:79259 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
+2019-03-13 00:44:12 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:91711 ] - [ INFO ] username is :admin1
+2019-03-13 00:44:12 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:91711 ] - [ INFO ] password is :Bb12345
+2019-03-13 00:44:12 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:91713 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±admin1æäº¤çš„bug4
+2019-03-13 00:44:12 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:91713 ] - [ INFO ] bugdetail is :è¿™æ˜¯admin1æäº¤çš„bugè¯¦æƒ…4
+2019-03-13 00:44:13 [wysh.selenium.business.LoginPro] - [ main:92039 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
+2019-03-13 00:44:19 [wysh.selenium.business.HomePagePro] - [ main:98371 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
+2019-03-13 00:44:20 [wysh.selenium.util.TestngRetry] - [ main:99626 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-13 00:44:20 [wysh.selenium.util.TestngRetry] - [ main:99634 ] - [ INFO ] é‡è¯•ç¬¬ï¼š1æ¬¡ï¼
+2019-03-13 00:44:23 [wysh.selenium.base.SelectDriver] - [ main:102072 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
+2019-03-13 00:44:35 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:114695 ] - [ INFO ] username is :admin1
+2019-03-13 00:44:35 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:114695 ] - [ INFO ] password is :Bb12345
+2019-03-13 00:44:35 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:114695 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±admin1æäº¤çš„bug4
+2019-03-13 00:44:35 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:114695 ] - [ INFO ] bugdetail is :è¿™æ˜¯admin1æäº¤çš„bugè¯¦æƒ…4
+2019-03-13 00:44:36 [wysh.selenium.business.LoginPro] - [ main:115270 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
+2019-03-13 00:44:44 [wysh.selenium.business.HomePagePro] - [ main:123284 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
+2019-03-13 00:44:45 [wysh.selenium.util.TestngRetry] - [ main:124314 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-13 00:44:45 [wysh.selenium.util.TestngRetry] - [ main:124320 ] - [ INFO ] é‡è¯•ç¬¬ï¼š2æ¬¡ï¼
+2019-03-13 00:44:48 [wysh.selenium.base.SelectDriver] - [ main:127148 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
+2019-03-13 00:44:59 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:137933 ] - [ INFO ] username is :admin1
+2019-03-13 00:44:59 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:137933 ] - [ INFO ] password is :Bb12345
+2019-03-13 00:44:59 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:137933 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±admin1æäº¤çš„bug4
+2019-03-13 00:44:59 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:137934 ] - [ INFO ] bugdetail is :è¿™æ˜¯admin1æäº¤çš„bugè¯¦æƒ…4
+2019-03-13 00:44:59 [wysh.selenium.business.LoginPro] - [ main:138181 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
+2019-03-13 00:45:07 [wysh.selenium.business.HomePagePro] - [ main:145916 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
+2019-03-13 00:45:08 [wysh.selenium.util.TestngRetry] - [ main:146960 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-13 00:45:08 [wysh.selenium.util.TestngRetry] - [ main:146961 ] - [ INFO ] é‡è¯•ç¬¬ï¼š3æ¬¡ï¼
+2019-03-13 00:45:11 [wysh.selenium.base.SelectDriver] - [ main:149904 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
+2019-03-13 00:45:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:155103 ] - [ INFO ] username is :admin1
+2019-03-13 00:45:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:155103 ] - [ INFO ] password is :Bb12345
+2019-03-13 00:45:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:155103 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±admin1æäº¤çš„bug4
+2019-03-13 00:45:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:155103 ] - [ INFO ] bugdetail is :è¿™æ˜¯admin1æäº¤çš„bugè¯¦æƒ…4
+2019-03-13 00:45:16 [wysh.selenium.business.LoginPro] - [ main:155163 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
+2019-03-13 00:45:20 [wysh.selenium.business.HomePagePro] - [ main:159131 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
+2019-03-13 00:45:21 [wysh.selenium.util.TestngRetry] - [ main:160150 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-13 00:45:21 [wysh.selenium.base.DriverBase] - [ main:160174 ] - [ INFO ] å¼€å§‹æˆªå›¾
+2019-03-13 00:45:23 [wysh.selenium.base.SelectDriver] - [ main:162490 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
+2019-03-13 00:45:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:168320 ] - [ INFO ] username is :user3
+2019-03-13 00:45:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:168320 ] - [ INFO ] password is :Cc1234
+2019-03-13 00:45:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:168320 ] - [ INFO ] bugtitle is :
+2019-03-13 00:45:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:168320 ] - [ INFO ] bugdetail is :è¿™æ˜¯user3æäº¤çš„bugè¯¦æƒ…3
+2019-03-13 00:45:29 [wysh.selenium.business.LoginPro] - [ main:168370 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
+2019-03-13 00:45:34 [wysh.selenium.business.HomePagePro] - [ main:173876 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
+2019-03-13 00:45:42 [wysh.selenium.business.HomePagePro] - [ main:181310 ] - [ INFO ] bug before count is :6
+2019-03-13 00:46:07 [wysh.selenium.util.TestngRetry] - [ main:206318 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-13 00:46:07 [wysh.selenium.base.DriverBase] - [ main:206325 ] - [ INFO ] å¼€å§‹æˆªå›¾
+2019-03-13 00:46:07 [wysh.selenium.base.DriverBase] - [ main:206861 ] - [ INFO ] æˆªå›¾å®Œæˆ
+2019-03-13 00:46:10 [wysh.selenium.base.SelectDriver] - [ main:209285 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
+2019-03-13 00:46:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:214977 ] - [ INFO ] username is :user3
+2019-03-13 00:46:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:214978 ] - [ INFO ] password is :Cc1234
+2019-03-13 00:46:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:214978 ] - [ INFO ] bugtitle is :
+2019-03-13 00:46:16 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:214978 ] - [ INFO ] bugdetail is :è¿™æ˜¯user3æäº¤çš„bugè¯¦æƒ…3
+2019-03-13 00:46:16 [wysh.selenium.business.LoginPro] - [ main:215029 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
+2019-03-13 00:46:20 [wysh.selenium.business.HomePagePro] - [ main:219762 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
+2019-03-13 00:46:27 [wysh.selenium.business.HomePagePro] - [ main:226856 ] - [ INFO ] bug before count is :6
+2019-03-13 00:46:52 [wysh.selenium.util.TestngRetry] - [ main:251772 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-13 00:46:52 [wysh.selenium.base.DriverBase] - [ main:251781 ] - [ INFO ] å¼€å§‹æˆªå›¾
+2019-03-13 00:46:53 [wysh.selenium.base.DriverBase] - [ main:252082 ] - [ INFO ] æˆªå›¾å®Œæˆ
+2019-03-13 00:46:55 [wysh.selenium.base.SelectDriver] - [ main:254437 ] - [ INFO ] start browser ï¼Œand browser is chrome !!!
+2019-03-13 00:47:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:260194 ] - [ INFO ] username is :user4
+2019-03-13 00:47:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:260194 ] - [ INFO ] password is :Dd1234
+2019-03-13 00:47:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:260194 ] - [ INFO ] bugtitle is :è¿™æ˜¯ç”±user4æäº¤çš„bug4
+2019-03-13 00:47:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:260194 ] - [ INFO ] bugdetail is :è¿™æ˜¯user4æäº¤çš„bugè¯¦æƒ…4
+2019-03-13 00:47:01 [wysh.selenium.business.LoginPro] - [ main:260262 ] - [ INFO ] å¼€å§‹ç™»å½•æ“ä½œï¼ï¼ï¼
+2019-03-13 00:47:06 [wysh.selenium.business.HomePagePro] - [ main:265287 ] - [ INFO ] æäº¤bugå¼€å§‹äº†!!!!
+2019-03-13 00:47:13 [wysh.selenium.business.HomePagePro] - [ main:272552 ] - [ INFO ] bug before count is :9
+2019-03-13 00:47:30 [wysh.selenium.business.HomePagePro] - [ main:289688 ] - [ INFO ] bug after count is :10
+2019-03-13 21:09:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:1 ] - [ INFO ] ³õÊ¼»¯ä¯ÀÀÆ÷£¬¿ªÊ¼Ò»´ÎĞÂµÄ test £¡£¡£¡
+2019-03-13 21:09:52 [wysh.selenium.base.SelectDriver] - [ main:71 ] - [ INFO ] start browser £¬and browser is chrome !!!
+2019-03-13 21:10:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:52286 ] - [ INFO ] ¶ÁÈ¡µÄ ExcelÊı¾İĞÅÏ¢Îª£º{password=Aa1234, bugdetail=ÕâÊÇadminÌá½»µÄbugÏêÇé4, bugtitle=ÕâÊÇÓÉadminÌá½»µÄbug4, username=admin}
+2019-03-13 21:10:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:52287 ] - [ INFO ] µÇÂ¼ÓÃ»§ÃûÊÇ :admin
+2019-03-13 21:10:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:52298 ] - [ INFO ] µÇÂ¼ÃÜÂëÊÇ  :Aa1234
+2019-03-13 21:10:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:52299 ] - [ INFO ] BugµÄ±êÌâÊÇ :ÕâÊÇÓÉadminÌá½»µÄbug4
+2019-03-13 21:10:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:52300 ] - [ INFO ] BugµÄÏêÏ¸ĞÅÏ¢ÊÇ :ÕâÊÇadminÌá½»µÄbugÏêÇé4
+2019-03-13 21:10:45 [wysh.selenium.business.LoginPro] - [ main:52692 ] - [ INFO ] ¿ªÊ¼µÇÂ¼²Ù×÷£¡£¡£¡
+2019-03-13 21:11:05 [wysh.selenium.business.HomePagePro] - [ main:72488 ] - [ INFO ] Ìá½»bug¿ªÊ¼ÁË!!!!
+2019-03-13 21:11:18 [wysh.selenium.business.HomePagePro] - [ main:85847 ] - [ INFO ] bug before count is :16
+2019-03-13 21:11:46 [wysh.selenium.business.HomePagePro] - [ main:113572 ] - [ INFO ] bug after count is :17
+2019-03-13 21:11:54 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:122251 ] - [ INFO ] ¹Ø±Õä¯ÀÀÆ÷£¬±¾´Î test ½áÊø £¡£¡£¡
+2019-03-13 21:11:56 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:123315 ] - [ INFO ] ³õÊ¼»¯ä¯ÀÀÆ÷£¬¿ªÊ¼Ò»´ÎĞÂµÄ test £¡£¡£¡
+2019-03-13 21:11:56 [wysh.selenium.base.SelectDriver] - [ main:123329 ] - [ INFO ] start browser £¬and browser is chrome !!!
+2019-03-13 21:12:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:133415 ] - [ INFO ] ¶ÁÈ¡µÄ ExcelÊı¾İĞÅÏ¢Îª£º{password=Bb12345, bugdetail=ÕâÊÇadmin1Ìá½»µÄbugÏêÇé4, bugtitle=ÕâÊÇÓÉadmin1Ìá½»µÄbug4, username=admin1}
+2019-03-13 21:12:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:133429 ] - [ INFO ] µÇÂ¼ÓÃ»§ÃûÊÇ :admin1
+2019-03-13 21:12:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:133432 ] - [ INFO ] µÇÂ¼ÃÜÂëÊÇ  :Bb12345
+2019-03-13 21:12:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:133433 ] - [ INFO ] BugµÄ±êÌâÊÇ :ÕâÊÇÓÉadmin1Ìá½»µÄbug4
+2019-03-13 21:12:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:133440 ] - [ INFO ] BugµÄÏêÏ¸ĞÅÏ¢ÊÇ :ÕâÊÇadmin1Ìá½»µÄbugÏêÇé4
+2019-03-13 21:12:06 [wysh.selenium.business.LoginPro] - [ main:133668 ] - [ INFO ] ¿ªÊ¼µÇÂ¼²Ù×÷£¡£¡£¡
+2019-03-13 21:12:16 [wysh.selenium.business.HomePagePro] - [ main:143683 ] - [ INFO ] Ìá½»bug¿ªÊ¼ÁË!!!!
+2019-03-13 21:12:27 [wysh.selenium.util.TestngRetry] - [ main:154743 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@20322d26] output={null}]
+2019-03-13 21:12:27 [wysh.selenium.util.TestngRetry] - [ main:154744 ] - [ INFO ] ÖØÊÔµÚ£º1´Î£¡
+2019-03-13 21:12:27 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:154745 ] - [ INFO ] ¹Ø±Õä¯ÀÀÆ÷£¬±¾´Î test ½áÊø £¡£¡£¡
+2019-03-13 21:12:28 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:155314 ] - [ INFO ] ³õÊ¼»¯ä¯ÀÀÆ÷£¬¿ªÊ¼Ò»´ÎĞÂµÄ test £¡£¡£¡
+2019-03-13 21:12:28 [wysh.selenium.base.SelectDriver] - [ main:155341 ] - [ INFO ] start browser £¬and browser is chrome !!!
+2019-03-13 21:12:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:167208 ] - [ INFO ] ¶ÁÈ¡µÄ ExcelÊı¾İĞÅÏ¢Îª£º{password=Bb12345, bugdetail=ÕâÊÇadmin1Ìá½»µÄbugÏêÇé4, bugtitle=ÕâÊÇÓÉadmin1Ìá½»µÄbug4, username=admin1}
+2019-03-13 21:12:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:167210 ] - [ INFO ] µÇÂ¼ÓÃ»§ÃûÊÇ :admin1
+2019-03-13 21:12:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:167210 ] - [ INFO ] µÇÂ¼ÃÜÂëÊÇ  :Bb12345
+2019-03-13 21:12:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:167211 ] - [ INFO ] BugµÄ±êÌâÊÇ :ÕâÊÇÓÉadmin1Ìá½»µÄbug4
+2019-03-13 21:12:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:167211 ] - [ INFO ] BugµÄÏêÏ¸ĞÅÏ¢ÊÇ :ÕâÊÇadmin1Ìá½»µÄbugÏêÇé4
+2019-03-13 21:12:40 [wysh.selenium.business.LoginPro] - [ main:167368 ] - [ INFO ] ¿ªÊ¼µÇÂ¼²Ù×÷£¡£¡£¡
+2019-03-13 21:12:46 [wysh.selenium.business.HomePagePro] - [ main:173552 ] - [ INFO ] Ìá½»bug¿ªÊ¼ÁË!!!!
+2019-03-13 21:12:57 [wysh.selenium.util.TestngRetry] - [ main:184619 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@20322d26] output={null}]
+2019-03-13 21:12:57 [wysh.selenium.util.TestngRetry] - [ main:184619 ] - [ INFO ] ÖØÊÔµÚ£º2´Î£¡
+2019-03-13 21:12:57 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:184620 ] - [ INFO ] ¹Ø±Õä¯ÀÀÆ÷£¬±¾´Î test ½áÊø £¡£¡£¡
+2019-03-13 21:12:57 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:185169 ] - [ INFO ] ³õÊ¼»¯ä¯ÀÀÆ÷£¬¿ªÊ¼Ò»´ÎĞÂµÄ test £¡£¡£¡
+2019-03-13 21:12:57 [wysh.selenium.base.SelectDriver] - [ main:185175 ] - [ INFO ] start browser £¬and browser is chrome !!!
+2019-03-13 21:13:08 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:196238 ] - [ INFO ] ¶ÁÈ¡µÄ ExcelÊı¾İĞÅÏ¢Îª£º{password=Bb12345, bugdetail=ÕâÊÇadmin1Ìá½»µÄbugÏêÇé4, bugtitle=ÕâÊÇÓÉadmin1Ìá½»µÄbug4, username=admin1}
+2019-03-13 21:13:08 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:196240 ] - [ INFO ] µÇÂ¼ÓÃ»§ÃûÊÇ :admin1
+2019-03-13 21:13:08 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:196240 ] - [ INFO ] µÇÂ¼ÃÜÂëÊÇ  :Bb12345
+2019-03-13 21:13:08 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:196240 ] - [ INFO ] BugµÄ±êÌâÊÇ :ÕâÊÇÓÉadmin1Ìá½»µÄbug4
+2019-03-13 21:13:08 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:196245 ] - [ INFO ] BugµÄÏêÏ¸ĞÅÏ¢ÊÇ :ÕâÊÇadmin1Ìá½»µÄbugÏêÇé4
+2019-03-13 21:13:09 [wysh.selenium.business.LoginPro] - [ main:196396 ] - [ INFO ] ¿ªÊ¼µÇÂ¼²Ù×÷£¡£¡£¡
+2019-03-13 21:13:18 [wysh.selenium.business.HomePagePro] - [ main:206004 ] - [ INFO ] Ìá½»bug¿ªÊ¼ÁË!!!!
+2019-03-13 21:13:30 [wysh.selenium.util.TestngRetry] - [ main:217427 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@20322d26] output={null}]
+2019-03-13 21:13:30 [wysh.selenium.base.DriverBase] - [ main:217442 ] - [ INFO ] ¿ªÊ¼½ØÍ¼
+2019-03-13 21:13:31 [wysh.selenium.base.DriverBase] - [ main:218638 ] - [ INFO ] ½ØÍ¼Íê³É
+2019-03-13 21:13:31 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:218639 ] - [ INFO ] ¹Ø±Õä¯ÀÀÆ÷£¬±¾´Î test ½áÊø £¡£¡£¡
+2019-03-13 21:13:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:221443 ] - [ INFO ] ³õÊ¼»¯ä¯ÀÀÆ÷£¬¿ªÊ¼Ò»´ÎĞÂµÄ test £¡£¡£¡
+2019-03-13 21:13:34 [wysh.selenium.base.SelectDriver] - [ main:221449 ] - [ INFO ] start browser £¬and browser is chrome !!!
+2019-03-13 21:13:41 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:228921 ] - [ INFO ] ¶ÁÈ¡µÄ ExcelÊı¾İĞÅÏ¢Îª£º{password=Cc1234, bugdetail=ÕâÊÇuser3Ìá½»µÄbugÏêÇé3, bugtitle=, username=user3}
+2019-03-13 21:13:41 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:228922 ] - [ INFO ] µÇÂ¼ÓÃ»§ÃûÊÇ :user3
+2019-03-13 21:13:41 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:228922 ] - [ INFO ] µÇÂ¼ÃÜÂëÊÇ  :Cc1234
+2019-03-13 21:13:41 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:228922 ] - [ INFO ] BugµÄ±êÌâÊÇ :
+2019-03-13 21:13:41 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:228923 ] - [ INFO ] BugµÄÏêÏ¸ĞÅÏ¢ÊÇ :ÕâÊÇuser3Ìá½»µÄbugÏêÇé3
+2019-03-13 21:13:41 [wysh.selenium.business.LoginPro] - [ main:229039 ] - [ INFO ] ¿ªÊ¼µÇÂ¼²Ù×÷£¡£¡£¡
+2019-03-13 21:13:46 [wysh.selenium.business.HomePagePro] - [ main:234129 ] - [ INFO ] Ìá½»bug¿ªÊ¼ÁË!!!!
+2019-03-13 21:13:54 [wysh.selenium.business.HomePagePro] - [ main:241396 ] - [ INFO ] bug before count is :7
+2019-03-13 21:14:20 [wysh.selenium.util.TestngRetry] - [ main:267523 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@20322d26] output={null}]
+2019-03-13 21:14:20 [wysh.selenium.base.DriverBase] - [ main:267535 ] - [ INFO ] ¿ªÊ¼½ØÍ¼
+2019-03-13 21:14:20 [wysh.selenium.base.DriverBase] - [ main:267974 ] - [ INFO ] ½ØÍ¼Íê³É
+2019-03-13 21:14:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:267975 ] - [ INFO ] ¹Ø±Õä¯ÀÀÆ÷£¬±¾´Î test ½áÊø £¡£¡£¡
+2019-03-13 21:14:21 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:268403 ] - [ INFO ] ³õÊ¼»¯ä¯ÀÀÆ÷£¬¿ªÊ¼Ò»´ÎĞÂµÄ test £¡£¡£¡
+2019-03-13 21:14:21 [wysh.selenium.base.SelectDriver] - [ main:268406 ] - [ INFO ] start browser £¬and browser is chrome !!!
+2019-03-13 21:14:27 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:274626 ] - [ INFO ] ¶ÁÈ¡µÄ ExcelÊı¾İĞÅÏ¢Îª£º{password=Cc1234, bugdetail=ÕâÊÇuser3Ìá½»µÄbugÏêÇé3, bugtitle=, username=user3}
+2019-03-13 21:14:27 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:274626 ] - [ INFO ] µÇÂ¼ÓÃ»§ÃûÊÇ :user3
+2019-03-13 21:14:27 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:274627 ] - [ INFO ] µÇÂ¼ÃÜÂëÊÇ  :Cc1234
+2019-03-13 21:14:27 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:274628 ] - [ INFO ] BugµÄ±êÌâÊÇ :
+2019-03-13 21:14:27 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:274628 ] - [ INFO ] BugµÄÏêÏ¸ĞÅÏ¢ÊÇ :ÕâÊÇuser3Ìá½»µÄbugÏêÇé3
+2019-03-13 21:14:27 [wysh.selenium.business.LoginPro] - [ main:274672 ] - [ INFO ] ¿ªÊ¼µÇÂ¼²Ù×÷£¡£¡£¡
+2019-03-13 21:14:32 [wysh.selenium.business.HomePagePro] - [ main:279600 ] - [ INFO ] Ìá½»bug¿ªÊ¼ÁË!!!!
+2019-03-13 21:14:40 [wysh.selenium.business.HomePagePro] - [ main:288207 ] - [ INFO ] bug before count is :7
+2019-03-13 21:15:06 [wysh.selenium.util.TestngRetry] - [ main:313458 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@20322d26] output={null}]
+2019-03-13 21:15:06 [wysh.selenium.base.DriverBase] - [ main:313461 ] - [ INFO ] ¿ªÊ¼½ØÍ¼
+2019-03-13 21:15:06 [wysh.selenium.base.DriverBase] - [ main:313727 ] - [ INFO ] ½ØÍ¼Íê³É
+2019-03-13 21:15:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:313727 ] - [ INFO ] ¹Ø±Õä¯ÀÀÆ÷£¬±¾´Î test ½áÊø £¡£¡£¡
+2019-03-13 21:15:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:313959 ] - [ INFO ] ³õÊ¼»¯ä¯ÀÀÆ÷£¬¿ªÊ¼Ò»´ÎĞÂµÄ test £¡£¡£¡
+2019-03-13 21:15:06 [wysh.selenium.base.SelectDriver] - [ main:313981 ] - [ INFO ] start browser £¬and browser is chrome !!!
+2019-03-13 21:15:13 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:320626 ] - [ INFO ] ¶ÁÈ¡µÄ ExcelÊı¾İĞÅÏ¢Îª£º{password=Dd1234, bugdetail=ÕâÊÇuser4Ìá½»µÄbugÏêÇé4, bugtitle=ÕâÊÇÓÉuser4Ìá½»µÄbug4, username=user4}
+2019-03-13 21:15:13 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:320628 ] - [ INFO ] µÇÂ¼ÓÃ»§ÃûÊÇ :user4
+2019-03-13 21:15:13 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:320628 ] - [ INFO ] µÇÂ¼ÃÜÂëÊÇ  :Dd1234
+2019-03-13 21:15:13 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:320628 ] - [ INFO ] BugµÄ±êÌâÊÇ :ÕâÊÇÓÉuser4Ìá½»µÄbug4
+2019-03-13 21:15:13 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:320629 ] - [ INFO ] BugµÄÏêÏ¸ĞÅÏ¢ÊÇ :ÕâÊÇuser4Ìá½»µÄbugÏêÇé4
+2019-03-13 21:15:13 [wysh.selenium.business.LoginPro] - [ main:320717 ] - [ INFO ] ¿ªÊ¼µÇÂ¼²Ù×÷£¡£¡£¡
+2019-03-13 21:15:18 [wysh.selenium.business.HomePagePro] - [ main:326071 ] - [ INFO ] Ìá½»bug¿ªÊ¼ÁË!!!!
+2019-03-13 21:15:26 [wysh.selenium.business.HomePagePro] - [ main:333965 ] - [ INFO ] bug before count is :11
+2019-03-13 21:15:44 [wysh.selenium.business.HomePagePro] - [ main:351610 ] - [ INFO ] bug after count is :12
+2019-03-13 21:15:51 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:358543 ] - [ INFO ] ¹Ø±Õä¯ÀÀÆ÷£¬±¾´Î test ½áÊø £¡£¡£¡
+2019-03-13 21:56:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:0 ] - [ INFO ] ³õÊ¼»¯ä¯ÀÀÆ÷£¬¿ªÊ¼Ò»´ÎĞÂµÄ test £¡£¡£¡
+2019-03-13 21:56:39 [wysh.selenium.base.SelectDriver] - [ main:49 ] - [ INFO ] start browser £¬and browser is chrome !!!
+2019-03-13 21:57:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:25317 ] - [ INFO ] ¶ÁÈ¡µÄ ExcelÊı¾İĞÅÏ¢Îª£º{password=Aa1234, bugdetail=ÕâÊÇadminÌá½»µÄbugÏêÇé4, bugtitle=ÕâÊÇÓÉadminÌá½»µÄbug4, username=admin}
+2019-03-13 21:57:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:25318 ] - [ INFO ] µÇÂ¼ÓÃ»§ÃûÊÇ :admin
+2019-03-13 21:57:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:25325 ] - [ INFO ] µÇÂ¼ÃÜÂëÊÇ  :Aa1234
+2019-03-13 21:57:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:25327 ] - [ INFO ] BugµÄ±êÌâÊÇ :ÕâÊÇÓÉadminÌá½»µÄbug4
+2019-03-13 21:57:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:25328 ] - [ INFO ] BugµÄÏêÏ¸ĞÅÏ¢ÊÇ :ÕâÊÇadminÌá½»µÄbugÏêÇé4
+2019-03-13 21:57:05 [wysh.selenium.business.LoginPro] - [ main:25658 ] - [ INFO ] ¿ªÊ¼µÇÂ¼²Ù×÷£¡£¡£¡
+2019-03-13 21:57:16 [wysh.selenium.business.HomePagePro] - [ main:37364 ] - [ INFO ] Ìá½»bug¿ªÊ¼ÁË!!!!
+2019-03-13 21:57:28 [wysh.selenium.business.HomePagePro] - [ main:48668 ] - [ INFO ] bug before count is :19
+2019-03-13 21:57:50 [wysh.selenium.business.HomePagePro] - [ main:71586 ] - [ INFO ] bug after count is :20
+2019-03-13 21:57:58 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:79152 ] - [ INFO ] ¹Ø±Õä¯ÀÀÆ÷£¬±¾´Î test ½áÊø £¡£¡£¡
+2019-03-13 21:58:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:81500 ] - [ INFO ] ³õÊ¼»¯ä¯ÀÀÆ÷£¬¿ªÊ¼Ò»´ÎĞÂµÄ test £¡£¡£¡
+2019-03-13 21:58:00 [wysh.selenium.base.SelectDriver] - [ main:81520 ] - [ INFO ] start browser £¬and browser is chrome !!!
+2019-03-13 21:58:09 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:89854 ] - [ INFO ] ¶ÁÈ¡µÄ ExcelÊı¾İĞÅÏ¢Îª£º{password=Bb12345, bugdetail=ÕâÊÇadmin1Ìá½»µÄbugÏêÇé4, bugtitle=ÕâÊÇÓÉadmin1Ìá½»µÄbug4, username=admin1}
+2019-03-13 21:58:09 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:89865 ] - [ INFO ] µÇÂ¼ÓÃ»§ÃûÊÇ :admin1
+2019-03-13 21:58:09 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:89867 ] - [ INFO ] µÇÂ¼ÃÜÂëÊÇ  :Bb12345
+2019-03-13 21:58:09 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:89868 ] - [ INFO ] BugµÄ±êÌâÊÇ :ÕâÊÇÓÉadmin1Ìá½»µÄbug4
+2019-03-13 21:58:09 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:89873 ] - [ INFO ] BugµÄÏêÏ¸ĞÅÏ¢ÊÇ :ÕâÊÇadmin1Ìá½»µÄbugÏêÇé4
+2019-03-13 21:58:09 [wysh.selenium.business.LoginPro] - [ main:90053 ] - [ INFO ] ¿ªÊ¼µÇÂ¼²Ù×÷£¡£¡£¡
+2019-03-13 21:58:16 [wysh.selenium.business.HomePagePro] - [ main:97010 ] - [ INFO ] Ìá½»bug¿ªÊ¼ÁË!!!!
+2019-03-13 21:58:27 [wysh.selenium.util.TestngRetry] - [ main:108357 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@20322d26] output={null}]
+2019-03-13 21:58:27 [wysh.selenium.util.TestngRetry] - [ main:108357 ] - [ INFO ] ÖØÊÔµÚ£º1´Î£¡
+2019-03-13 21:58:27 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:108358 ] - [ INFO ] ¹Ø±Õä¯ÀÀÆ÷£¬±¾´Î test ½áÊø £¡£¡£¡
+2019-03-13 21:58:32 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:113338 ] - [ INFO ] ³õÊ¼»¯ä¯ÀÀÆ÷£¬¿ªÊ¼Ò»´ÎĞÂµÄ test £¡£¡£¡
+2019-03-13 21:58:32 [wysh.selenium.base.SelectDriver] - [ main:113361 ] - [ INFO ] start browser £¬and browser is chrome !!!
+2019-03-13 21:58:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:119946 ] - [ INFO ] ¶ÁÈ¡µÄ ExcelÊı¾İĞÅÏ¢Îª£º{password=Bb12345, bugdetail=ÕâÊÇadmin1Ìá½»µÄbugÏêÇé4, bugtitle=ÕâÊÇÓÉadmin1Ìá½»µÄbug4, username=admin1}
+2019-03-13 21:58:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:119948 ] - [ INFO ] µÇÂ¼ÓÃ»§ÃûÊÇ :admin1
+2019-03-13 21:58:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:119958 ] - [ INFO ] µÇÂ¼ÃÜÂëÊÇ  :Bb12345
+2019-03-13 21:58:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:119959 ] - [ INFO ] BugµÄ±êÌâÊÇ :ÕâÊÇÓÉadmin1Ìá½»µÄbug4
+2019-03-13 21:58:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:119959 ] - [ INFO ] BugµÄÏêÏ¸ĞÅÏ¢ÊÇ :ÕâÊÇadmin1Ìá½»µÄbugÏêÇé4
+2019-03-13 21:58:39 [wysh.selenium.business.LoginPro] - [ main:120124 ] - [ INFO ] ¿ªÊ¼µÇÂ¼²Ù×÷£¡£¡£¡
+2019-03-13 21:58:45 [wysh.selenium.business.HomePagePro] - [ main:126018 ] - [ INFO ] Ìá½»bug¿ªÊ¼ÁË!!!!
+2019-03-13 21:58:56 [wysh.selenium.util.TestngRetry] - [ main:137182 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@20322d26] output={null}]
+2019-03-13 21:58:56 [wysh.selenium.util.TestngRetry] - [ main:137182 ] - [ INFO ] ÖØÊÔµÚ£º2´Î£¡
+2019-03-13 21:58:56 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:137183 ] - [ INFO ] ¹Ø±Õä¯ÀÀÆ÷£¬±¾´Î test ½áÊø £¡£¡£¡
+2019-03-13 21:58:58 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:139605 ] - [ INFO ] ³õÊ¼»¯ä¯ÀÀÆ÷£¬¿ªÊ¼Ò»´ÎĞÂµÄ test £¡£¡£¡
+2019-03-13 21:58:58 [wysh.selenium.base.SelectDriver] - [ main:139609 ] - [ INFO ] start browser £¬and browser is chrome !!!
+2019-03-13 21:59:08 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:148903 ] - [ INFO ] ¶ÁÈ¡µÄ ExcelÊı¾İĞÅÏ¢Îª£º{password=Bb12345, bugdetail=ÕâÊÇadmin1Ìá½»µÄbugÏêÇé4, bugtitle=ÕâÊÇÓÉadmin1Ìá½»µÄbug4, username=admin1}
+2019-03-13 21:59:08 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:148904 ] - [ INFO ] µÇÂ¼ÓÃ»§ÃûÊÇ :admin1
+2019-03-13 21:59:08 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:148904 ] - [ INFO ] µÇÂ¼ÃÜÂëÊÇ  :Bb12345
+2019-03-13 21:59:08 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:148904 ] - [ INFO ] BugµÄ±êÌâÊÇ :ÕâÊÇÓÉadmin1Ìá½»µÄbug4
+2019-03-13 21:59:08 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:148904 ] - [ INFO ] BugµÄÏêÏ¸ĞÅÏ¢ÊÇ :ÕâÊÇadmin1Ìá½»µÄbugÏêÇé4
+2019-03-13 21:59:08 [wysh.selenium.business.LoginPro] - [ main:149013 ] - [ INFO ] ¿ªÊ¼µÇÂ¼²Ù×÷£¡£¡£¡
+2019-03-13 21:59:14 [wysh.selenium.business.HomePagePro] - [ main:154853 ] - [ INFO ] Ìá½»bug¿ªÊ¼ÁË!!!!
+2019-03-13 21:59:25 [wysh.selenium.util.TestngRetry] - [ main:165990 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@20322d26] output={null}]
+2019-03-13 21:59:25 [wysh.selenium.base.DriverBase] - [ main:166006 ] - [ INFO ] ¿ªÊ¼½ØÍ¼
+2019-03-13 21:59:26 [wysh.selenium.base.DriverBase] - [ main:166650 ] - [ INFO ] ½ØÍ¼Íê³É
+2019-03-13 21:59:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:166651 ] - [ INFO ] ¹Ø±Õä¯ÀÀÆ÷£¬±¾´Î test ½áÊø £¡£¡£¡
+2019-03-13 21:59:28 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:169100 ] - [ INFO ] ³õÊ¼»¯ä¯ÀÀÆ÷£¬¿ªÊ¼Ò»´ÎĞÂµÄ test £¡£¡£¡
+2019-03-13 21:59:28 [wysh.selenium.base.SelectDriver] - [ main:169104 ] - [ INFO ] start browser £¬and browser is chrome !!!
+2019-03-13 21:59:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:174700 ] - [ INFO ] ¶ÁÈ¡µÄ ExcelÊı¾İĞÅÏ¢Îª£º{password=Cc1234, bugdetail=ÕâÊÇuser3Ìá½»µÄbugÏêÇé3, bugtitle=, username=user3}
+2019-03-13 21:59:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:174700 ] - [ INFO ] µÇÂ¼ÓÃ»§ÃûÊÇ :user3
+2019-03-13 21:59:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:174700 ] - [ INFO ] µÇÂ¼ÃÜÂëÊÇ  :Cc1234
+2019-03-13 21:59:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:174701 ] - [ INFO ] BugµÄ±êÌâÊÇ :
+2019-03-13 21:59:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:174701 ] - [ INFO ] BugµÄÏêÏ¸ĞÅÏ¢ÊÇ :ÕâÊÇuser3Ìá½»µÄbugÏêÇé3
+2019-03-13 21:59:34 [wysh.selenium.business.LoginPro] - [ main:175474 ] - [ INFO ] ¿ªÊ¼µÇÂ¼²Ù×÷£¡£¡£¡
+2019-03-13 21:59:44 [wysh.selenium.business.HomePagePro] - [ main:184916 ] - [ INFO ] Ìá½»bug¿ªÊ¼ÁË!!!!
+2019-03-13 21:59:53 [wysh.selenium.business.HomePagePro] - [ main:194339 ] - [ INFO ] bug before count is :9
+2019-03-13 22:00:27 [wysh.selenium.util.TestngRetry] - [ main:227724 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@20322d26] output={null}]
+2019-03-13 22:00:27 [wysh.selenium.base.DriverBase] - [ main:227734 ] - [ INFO ] ¿ªÊ¼½ØÍ¼
+2019-03-13 22:00:27 [wysh.selenium.base.DriverBase] - [ main:228190 ] - [ INFO ] ½ØÍ¼Íê³É
+2019-03-13 22:00:27 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:228191 ] - [ INFO ] ¹Ø±Õä¯ÀÀÆ÷£¬±¾´Î test ½áÊø £¡£¡£¡
+2019-03-13 22:00:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:230608 ] - [ INFO ] ³õÊ¼»¯ä¯ÀÀÆ÷£¬¿ªÊ¼Ò»´ÎĞÂµÄ test £¡£¡£¡
+2019-03-13 22:00:29 [wysh.selenium.base.SelectDriver] - [ main:230614 ] - [ INFO ] start browser £¬and browser is chrome !!!
+2019-03-13 22:00:38 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:239108 ] - [ INFO ] ¶ÁÈ¡µÄ ExcelÊı¾İĞÅÏ¢Îª£º{password=Cc1234, bugdetail=ÕâÊÇuser3Ìá½»µÄbugÏêÇé3, bugtitle=, username=user3}
+2019-03-13 22:00:38 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:239108 ] - [ INFO ] µÇÂ¼ÓÃ»§ÃûÊÇ :user3
+2019-03-13 22:00:38 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:239109 ] - [ INFO ] µÇÂ¼ÃÜÂëÊÇ  :Cc1234
+2019-03-13 22:00:38 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:239109 ] - [ INFO ] BugµÄ±êÌâÊÇ :
+2019-03-13 22:00:38 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:239109 ] - [ INFO ] BugµÄÏêÏ¸ĞÅÏ¢ÊÇ :ÕâÊÇuser3Ìá½»µÄbugÏêÇé3
+2019-03-13 22:00:38 [wysh.selenium.business.LoginPro] - [ main:239239 ] - [ INFO ] ¿ªÊ¼µÇÂ¼²Ù×÷£¡£¡£¡
+2019-03-13 22:00:45 [wysh.selenium.business.HomePagePro] - [ main:246173 ] - [ INFO ] Ìá½»bug¿ªÊ¼ÁË!!!!
+2019-03-13 22:00:53 [wysh.selenium.business.HomePagePro] - [ main:253707 ] - [ INFO ] bug before count is :9
+2019-03-13 22:01:18 [wysh.selenium.util.TestngRetry] - [ main:278855 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@20322d26] output={null}]
+2019-03-13 22:01:18 [wysh.selenium.base.DriverBase] - [ main:278859 ] - [ INFO ] ¿ªÊ¼½ØÍ¼
+2019-03-13 22:01:18 [wysh.selenium.base.DriverBase] - [ main:279150 ] - [ INFO ] ½ØÍ¼Íê³É
+2019-03-13 22:01:18 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:279151 ] - [ INFO ] ¹Ø±Õä¯ÀÀÆ÷£¬±¾´Î test ½áÊø £¡£¡£¡
+2019-03-13 22:01:18 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:279388 ] - [ INFO ] ³õÊ¼»¯ä¯ÀÀÆ÷£¬¿ªÊ¼Ò»´ÎĞÂµÄ test £¡£¡£¡
+2019-03-13 22:01:18 [wysh.selenium.base.SelectDriver] - [ main:279410 ] - [ INFO ] start browser £¬and browser is chrome !!!
+2019-03-13 22:01:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:284932 ] - [ INFO ] ¶ÁÈ¡µÄ ExcelÊı¾İĞÅÏ¢Îª£º{password=Dd1234, bugdetail=ÕâÊÇuser4Ìá½»µÄbugÏêÇé4, bugtitle=ÕâÊÇÓÉuser4Ìá½»µÄbug4, username=user4}
+2019-03-13 22:01:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:284933 ] - [ INFO ] µÇÂ¼ÓÃ»§ÃûÊÇ :user4
+2019-03-13 22:01:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:284933 ] - [ INFO ] µÇÂ¼ÃÜÂëÊÇ  :Dd1234
+2019-03-13 22:01:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:284933 ] - [ INFO ] BugµÄ±êÌâÊÇ :ÕâÊÇÓÉuser4Ìá½»µÄbug4
+2019-03-13 22:01:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:284934 ] - [ INFO ] BugµÄÏêÏ¸ĞÅÏ¢ÊÇ :ÕâÊÇuser4Ìá½»µÄbugÏêÇé4
+2019-03-13 22:01:24 [wysh.selenium.business.LoginPro] - [ main:284981 ] - [ INFO ] ¿ªÊ¼µÇÂ¼²Ù×÷£¡£¡£¡
+2019-03-13 22:01:29 [wysh.selenium.business.HomePagePro] - [ main:290152 ] - [ INFO ] Ìá½»bug¿ªÊ¼ÁË!!!!
+2019-03-13 22:01:37 [wysh.selenium.business.HomePagePro] - [ main:298027 ] - [ INFO ] bug before count is :14
+2019-03-13 22:01:54 [wysh.selenium.business.HomePagePro] - [ main:315043 ] - [ INFO ] bug after count is :15
+2019-03-13 22:02:01 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:321683 ] - [ INFO ] ¹Ø±Õä¯ÀÀÆ÷£¬±¾´Î test ½áÊø £¡£¡£¡

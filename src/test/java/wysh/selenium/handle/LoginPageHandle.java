@@ -46,6 +46,11 @@ public class LoginPageHandle {
 	public void clickLoginButton() {
 		lp.click(lp.getLoginButtonElement());
 	}
+	public void switchToActive() {
+		if(driver.isAlertPresent()) {
+			driver.switchToMode();
+		}
+	}
 	/**
 	 * 最大化窗口
 	 */

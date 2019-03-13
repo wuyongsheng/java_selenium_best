@@ -13,6 +13,7 @@ import java.util.concurrent.TimeUnit;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Cookie;
+import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -178,7 +179,22 @@ public class DriverBase extends LogsInit{
    public void switchToMode(){
 	   driver.switchTo().activeElement();
    }
-   
+   /**
+    * 判断Alert是否存在
+    * @return boolean
+    */
+   public boolean isAlertPresent(){  
+       try  
+       {  
+           driver.switchTo().alert();  
+           log.info("出现了弹出框！！！");
+           return true;  
+       }     
+       catch (NoAlertPresentException Ex)  
+       {  
+           return false;  
+       }     
+   }
    /*
     * actionMoveElement
     * */

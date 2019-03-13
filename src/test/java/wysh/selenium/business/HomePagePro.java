@@ -6,6 +6,8 @@ import wysh.selenium.util.LogsInit;
 
 public class HomePagePro extends LogsInit{
 	public HomePageHandle hph;
+	public String beforeCount;
+	public String afterCount; 
 	public HomePagePro(DriverBase driver) {
 		hph = new HomePageHandle(driver);
 	}
@@ -31,8 +33,8 @@ public class HomePagePro extends LogsInit{
 		hph.sleep(1000);
 		hph.clickBugByMeElement2();
 		hph.sleep(100);
-		String beforecount = hph.getBugByMeCount();
-		log.info("bug before count is :"+beforecount);
+		beforeCount = hph.getBugByMeCount();
+		log.info("bug before count is :"+beforeCount);
 		hph.sleep(1000);
 		hph.clickBElement();
 		hph.sleep(2000);
@@ -54,8 +56,8 @@ public class HomePagePro extends LogsInit{
 		hph.clickSubmitElement1();
 		hph.sleep(1000);
 		hph.clickBugByMeElement2();
-		String afterCount = hph.getBugByMeCount2();
-		log.info("bug ahter count is :"+afterCount);
+		afterCount = hph.getBugByMeCount2();
+		log.info("bug after count is :"+afterCount);
 		hph.sleep(2000);
 		hph.clickNameInfo();
 		hph.sleep(2000);

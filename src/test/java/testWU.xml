@@ -2,16 +2,16 @@
 <suite name="Suite" parallel="false">
   <parameter name ="username" value="admin"/>
 	<parameter name ="password" value="Aa1234"/>
-  <test name="Test">
+  <test name="Test_By_Vincent">
     <classes>
 	<!-- <class name="wysh.java_selenium_best.Test1"/> -->
 	<!-- <class name="wysh.java_selenium_best.TestLogin"/> -->
 	<!-- <class name="wysh.selenium.testcase.TestLogin" />  -->
-	<class name="wysh.selenium.testcase.TestLoginExcel" />
+	<class name="wysh.selenium.testcase.TestLoginAndCommitBug" />
     </classes>
   </test> <!-- Test -->
   <listeners>
-        <listener class-name="org.uncommons.reportng.HTMLReporter" />
+    <!--     <listener class-name="org.uncommons.reportng.HTMLReporter" /> -->
         <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
          <listener class-name="wysh.selenium.util.RetryListener" />
         <listener class-name="wysh.selenium.util.TestNGListenerScreen" />

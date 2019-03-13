@@ -1,0 +1,341 @@
+2019-03-10 15:22:57 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] browser is chrome !!!
+2019-03-10 15:42:32 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] browser is chrome !!!
+2019-03-10 15:42:48 [wysh.selenium.base.DriverBase] - [ main:16630 ] - [ INFO ] 开始截图
+2019-03-10 15:42:51 [wysh.selenium.base.DriverBase] - [ main:19037 ] - [ INFO ] 截图完成
+2019-03-10 20:05:32 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 20:05:53 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:21326 ] - [ ERROR ] username is :admin
+2019-03-10 20:05:53 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:21334 ] - [ INFO ] username is :admin
+2019-03-10 20:05:53 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:21335 ] - [ ERROR ] password is :Aa1234
+2019-03-10 20:05:53 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:21335 ] - [ INFO ] password is :Aa1234
+2019-03-10 20:05:54 [wysh.selenium.business.LoginPro] - [ main:21825 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 20:06:07 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:34596 ] - [ ERROR ] username is :admin1
+2019-03-10 20:06:07 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:34596 ] - [ INFO ] username is :admin1
+2019-03-10 20:06:07 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:34597 ] - [ ERROR ] password is :Bb1234
+2019-03-10 20:06:07 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:34598 ] - [ INFO ] password is :Bb1234
+2019-03-10 20:06:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:47456 ] - [ ERROR ] username is :user3
+2019-03-10 20:06:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:47457 ] - [ INFO ] username is :user3
+2019-03-10 20:06:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:47457 ] - [ ERROR ] password is :Cc1234
+2019-03-10 20:06:20 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:47458 ] - [ INFO ] password is :Cc1234
+2019-03-10 20:06:32 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59858 ] - [ ERROR ] username is :user4
+2019-03-10 20:06:32 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59858 ] - [ INFO ] username is :user4
+2019-03-10 20:06:32 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59860 ] - [ ERROR ] password is :Dd1234
+2019-03-10 20:06:32 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59860 ] - [ INFO ] password is :Dd1234
+2019-03-10 20:06:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:72403 ] - [ ERROR ] username is :user5
+2019-03-10 20:06:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:72404 ] - [ INFO ] username is :user5
+2019-03-10 20:06:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:72404 ] - [ ERROR ] password is :Ee1234
+2019-03-10 20:06:45 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:72405 ] - [ INFO ] password is :Ee1234
+2019-03-10 20:06:57 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:85000 ] - [ ERROR ] username is :user6
+2019-03-10 20:06:57 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:85000 ] - [ INFO ] username is :user6
+2019-03-10 20:06:57 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:85001 ] - [ ERROR ] password is :Ff1234
+2019-03-10 20:06:57 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:85001 ] - [ INFO ] password is :Ff1234
+2019-03-10 20:17:56 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 20:18:03 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:7667 ] - [ ERROR ] username is :admin
+2019-03-10 20:18:03 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:7668 ] - [ INFO ] username is :admin
+2019-03-10 20:18:04 [wysh.selenium.business.LoginPro] - [ main:7782 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 20:18:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:15300 ] - [ ERROR ] username is :admin1
+2019-03-10 20:18:11 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:15301 ] - [ INFO ] username is :admin1
+2019-03-10 20:18:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:27900 ] - [ ERROR ] username is :user3
+2019-03-10 20:18:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:27900 ] - [ INFO ] username is :user3
+2019-03-10 20:20:19 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 20:20:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:7081 ] - [ ERROR ] username is :admin
+2019-03-10 20:20:26 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:7081 ] - [ INFO ] username is :admin
+2019-03-10 20:20:26 [wysh.selenium.business.LoginPro] - [ main:7173 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 20:20:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:20362 ] - [ ERROR ] username is :admin1
+2019-03-10 20:20:39 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:20363 ] - [ INFO ] username is :admin1
+2019-03-10 20:20:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32914 ] - [ ERROR ] username is :user3
+2019-03-10 20:20:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:32914 ] - [ INFO ] username is :user3
+2019-03-10 20:24:53 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 20:25:01 [wysh.selenium.business.LoginPro] - [ main:7324 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 20:25:05 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:12130 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 20:28:11 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 20:28:21 [wysh.selenium.business.LoginPro] - [ main:9491 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 20:28:25 [wysh.selenium.business.HomePagePro] - [ main:14255 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 20:49:05 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 20:49:17 [wysh.selenium.business.LoginPro] - [ main:12081 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 20:49:24 [wysh.selenium.business.HomePagePro] - [ main:18975 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:05:03 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 21:05:17 [wysh.selenium.business.LoginPro] - [ main:13956 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:05:25 [wysh.selenium.business.HomePagePro] - [ main:21896 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:05:33 [wysh.selenium.business.LoginPro] - [ main:30097 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:05:36 [wysh.selenium.business.HomePagePro] - [ main:33375 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:05:44 [wysh.selenium.business.LoginPro] - [ main:41604 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:05:48 [wysh.selenium.business.HomePagePro] - [ main:45174 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:05:55 [wysh.selenium.business.LoginPro] - [ main:52495 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:05:59 [wysh.selenium.business.HomePagePro] - [ main:55777 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:06:06 [wysh.selenium.business.LoginPro] - [ main:63195 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:06:10 [wysh.selenium.business.HomePagePro] - [ main:66844 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:06:17 [wysh.selenium.business.LoginPro] - [ main:73961 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:06:20 [wysh.selenium.business.HomePagePro] - [ main:77022 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:06:27 [wysh.selenium.business.LoginPro] - [ main:84054 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:06:30 [wysh.selenium.business.HomePagePro] - [ main:87416 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:23:31 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 21:23:43 [wysh.selenium.business.LoginPro] - [ main:11925 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:23:49 [wysh.selenium.business.HomePagePro] - [ main:17961 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:24:01 [wysh.selenium.business.LoginPro] - [ main:29772 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:24:04 [wysh.selenium.business.HomePagePro] - [ main:32947 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:24:17 [wysh.selenium.business.LoginPro] - [ main:46218 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:24:21 [wysh.selenium.business.HomePagePro] - [ main:49350 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:24:32 [wysh.selenium.business.LoginPro] - [ main:61037 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:24:36 [wysh.selenium.business.HomePagePro] - [ main:64803 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:24:48 [wysh.selenium.business.LoginPro] - [ main:76651 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:24:51 [wysh.selenium.business.HomePagePro] - [ main:79783 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:25:03 [wysh.selenium.business.LoginPro] - [ main:91559 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:25:06 [wysh.selenium.business.HomePagePro] - [ main:94693 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:25:18 [wysh.selenium.business.LoginPro] - [ main:106522 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:25:21 [wysh.selenium.business.HomePagePro] - [ main:109643 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:49:56 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 21:50:06 [wysh.selenium.business.LoginPro] - [ main:9998 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:50:11 [wysh.selenium.business.HomePagePro] - [ main:15681 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:53:58 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 21:54:07 [wysh.selenium.business.LoginPro] - [ main:9368 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:54:14 [wysh.selenium.business.HomePagePro] - [ main:16523 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:54:21 [wysh.selenium.business.HomePagePro] - [ main:23332 ] - [ INFO ] bug before count is :0
+2019-03-10 21:54:29 [wysh.selenium.business.LoginPro] - [ main:31223 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:54:32 [wysh.selenium.business.HomePagePro] - [ main:34328 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:54:39 [wysh.selenium.business.HomePagePro] - [ main:40935 ] - [ INFO ] bug before count is :0
+2019-03-10 21:54:46 [wysh.selenium.business.LoginPro] - [ main:48185 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:54:49 [wysh.selenium.business.HomePagePro] - [ main:51456 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:54:56 [wysh.selenium.business.HomePagePro] - [ main:58227 ] - [ INFO ] bug before count is :0
+2019-03-10 21:55:03 [wysh.selenium.business.LoginPro] - [ main:65361 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:55:06 [wysh.selenium.business.HomePagePro] - [ main:68472 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:55:13 [wysh.selenium.business.HomePagePro] - [ main:75070 ] - [ INFO ] bug before count is :6
+2019-03-10 21:55:20 [wysh.selenium.business.LoginPro] - [ main:82044 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:55:23 [wysh.selenium.business.HomePagePro] - [ main:85613 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:55:30 [wysh.selenium.business.HomePagePro] - [ main:92450 ] - [ INFO ] bug before count is :7
+2019-03-10 21:55:37 [wysh.selenium.business.LoginPro] - [ main:99421 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:55:40 [wysh.selenium.business.HomePagePro] - [ main:102565 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:55:47 [wysh.selenium.business.HomePagePro] - [ main:109347 ] - [ INFO ] bug before count is :8
+2019-03-10 21:55:56 [wysh.selenium.business.LoginPro] - [ main:118067 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 21:55:59 [wysh.selenium.business.HomePagePro] - [ main:121238 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 21:56:07 [wysh.selenium.business.HomePagePro] - [ main:128841 ] - [ INFO ] bug before count is :4
+2019-03-10 22:34:54 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 22:35:02 [wysh.selenium.business.LoginPro] - [ main:8258 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 22:35:07 [wysh.selenium.business.HomePagePro] - [ main:13265 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 22:35:15 [wysh.selenium.business.HomePagePro] - [ main:20818 ] - [ INFO ] bug before count is :0
+2019-03-10 22:38:49 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 22:39:18 [wysh.selenium.business.LoginPro] - [ main:28068 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 22:39:25 [wysh.selenium.business.HomePagePro] - [ main:35770 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 22:39:34 [wysh.selenium.business.HomePagePro] - [ main:44951 ] - [ INFO ] bug before count is :0
+2019-03-10 22:41:13 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 22:41:22 [wysh.selenium.business.LoginPro] - [ main:8171 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 22:41:27 [wysh.selenium.business.HomePagePro] - [ main:13181 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 22:41:39 [wysh.selenium.business.HomePagePro] - [ main:25824 ] - [ INFO ] bug before count is :0
+2019-03-10 22:42:03 [wysh.selenium.business.HomePagePro] - [ main:49747 ] - [ INFO ] bug ahter count is :1
+2019-03-10 22:42:11 [wysh.selenium.business.LoginPro] - [ main:57892 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 22:42:14 [wysh.selenium.business.HomePagePro] - [ main:60985 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 22:42:25 [wysh.selenium.business.HomePagePro] - [ main:71066 ] - [ INFO ] bug before count is :0
+2019-03-10 22:49:34 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 22:50:56 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 22:51:05 [wysh.selenium.business.LoginPro] - [ main:9116 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 22:51:11 [wysh.selenium.business.HomePagePro] - [ main:14898 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 22:51:18 [wysh.selenium.business.HomePagePro] - [ main:21969 ] - [ INFO ] bug before count is :1
+2019-03-10 22:51:34 [wysh.selenium.business.HomePagePro] - [ main:38448 ] - [ INFO ] bug ahter count is :2
+2019-03-10 22:51:43 [wysh.selenium.business.LoginPro] - [ main:47188 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 22:51:46 [wysh.selenium.business.HomePagePro] - [ main:50010 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 22:51:53 [wysh.selenium.business.HomePagePro] - [ main:57326 ] - [ INFO ] bug before count is :0
+2019-03-10 22:55:24 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 22:55:33 [wysh.selenium.business.LoginPro] - [ main:9012 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 22:55:42 [wysh.selenium.business.HomePagePro] - [ main:18136 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 22:55:54 [wysh.selenium.business.HomePagePro] - [ main:30405 ] - [ INFO ] bug before count is :2
+2019-03-10 22:56:12 [wysh.selenium.business.HomePagePro] - [ main:48932 ] - [ INFO ] bug ahter count is :3
+2019-03-10 22:56:22 [wysh.selenium.business.LoginPro] - [ main:58263 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 22:56:25 [wysh.selenium.business.HomePagePro] - [ main:61349 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 22:56:37 [wysh.selenium.business.HomePagePro] - [ main:73726 ] - [ INFO ] bug before count is :1
+2019-03-10 23:10:52 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-10 23:11:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:9958 ] - [ INFO ] username is :admin
+2019-03-10 23:11:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:9959 ] - [ INFO ] password is :Aa1234
+2019-03-10 23:11:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:9968 ] - [ INFO ] bugtitle is :这是由admin提交的bug
+2019-03-10 23:11:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:9968 ] - [ INFO ] bugdetail is :这是admin提交的bug详情
+2019-03-10 23:11:02 [wysh.selenium.business.LoginPro] - [ main:10085 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 23:11:07 [wysh.selenium.business.HomePagePro] - [ main:14806 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 23:11:14 [wysh.selenium.business.HomePagePro] - [ main:22280 ] - [ INFO ] bug before count is :2
+2019-03-10 23:11:35 [wysh.selenium.business.HomePagePro] - [ main:43090 ] - [ INFO ] bug ahter count is :3
+2019-03-10 23:11:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:51732 ] - [ INFO ] username is :admin1
+2019-03-10 23:11:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:51733 ] - [ INFO ] password is :Bb1234
+2019-03-10 23:11:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:51733 ] - [ INFO ] bugtitle is :这是由admin1提交的bug
+2019-03-10 23:11:44 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:51733 ] - [ INFO ] bugdetail is :这是admin1提交的bug详情
+2019-03-10 23:11:44 [wysh.selenium.business.LoginPro] - [ main:51775 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 23:11:47 [wysh.selenium.business.HomePagePro] - [ main:54825 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 23:11:54 [wysh.selenium.business.HomePagePro] - [ main:61587 ] - [ INFO ] bug before count is :1
+2019-03-10 23:12:11 [wysh.selenium.business.HomePagePro] - [ main:78517 ] - [ INFO ] bug ahter count is :2
+2019-03-10 23:12:19 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:87123 ] - [ INFO ] username is :user3
+2019-03-10 23:12:19 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:87123 ] - [ INFO ] password is :Cc1234
+2019-03-10 23:12:19 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:87123 ] - [ INFO ] bugtitle is :这是由user3提交的bug
+2019-03-10 23:12:19 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:87123 ] - [ INFO ] bugdetail is :这是user3提交的bug详情
+2019-03-10 23:12:19 [wysh.selenium.business.LoginPro] - [ main:87198 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 23:12:22 [wysh.selenium.business.HomePagePro] - [ main:90134 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 23:12:31 [wysh.selenium.business.HomePagePro] - [ main:99002 ] - [ INFO ] bug before count is :0
+2019-03-10 23:12:51 [wysh.selenium.business.HomePagePro] - [ main:119285 ] - [ INFO ] bug ahter count is :1
+2019-03-10 23:13:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:127873 ] - [ INFO ] username is :user4
+2019-03-10 23:13:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:127874 ] - [ INFO ] password is :Dd1234
+2019-03-10 23:13:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:127875 ] - [ INFO ] bugtitle is :这是由user4提交的bug
+2019-03-10 23:13:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:127875 ] - [ INFO ] bugdetail is :这是user4提交的bug详情
+2019-03-10 23:13:00 [wysh.selenium.business.LoginPro] - [ main:127923 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 23:13:03 [wysh.selenium.business.HomePagePro] - [ main:131051 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 23:13:13 [wysh.selenium.business.HomePagePro] - [ main:140613 ] - [ INFO ] bug before count is :6
+2019-03-10 23:13:31 [wysh.selenium.business.HomePagePro] - [ main:158985 ] - [ INFO ] bug ahter count is :7
+2019-03-10 23:13:40 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:167576 ] - [ INFO ] username is :user5
+2019-03-10 23:13:40 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:167576 ] - [ INFO ] password is :Ee1234
+2019-03-10 23:13:40 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:167576 ] - [ INFO ] bugtitle is :这是由user5提交的bug
+2019-03-10 23:13:40 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:167577 ] - [ INFO ] bugdetail is :这是user5提交的bug详情
+2019-03-10 23:13:40 [wysh.selenium.business.LoginPro] - [ main:167616 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 23:13:43 [wysh.selenium.business.HomePagePro] - [ main:170599 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 23:13:51 [wysh.selenium.business.HomePagePro] - [ main:178899 ] - [ INFO ] bug before count is :7
+2019-03-10 23:14:08 [wysh.selenium.business.HomePagePro] - [ main:196159 ] - [ INFO ] bug ahter count is :8
+2019-03-10 23:14:17 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:205056 ] - [ INFO ] username is :user6
+2019-03-10 23:14:17 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:205056 ] - [ INFO ] password is :Ff1234
+2019-03-10 23:14:17 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:205057 ] - [ INFO ] bugtitle is :这是由user6提交的bug
+2019-03-10 23:14:17 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:205057 ] - [ INFO ] bugdetail is :这是user6提交的bug详情
+2019-03-10 23:14:17 [wysh.selenium.business.LoginPro] - [ main:205113 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 23:14:20 [wysh.selenium.business.HomePagePro] - [ main:208013 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 23:14:31 [wysh.selenium.business.HomePagePro] - [ main:219413 ] - [ INFO ] bug before count is :8
+2019-03-10 23:14:51 [wysh.selenium.business.HomePagePro] - [ main:238692 ] - [ INFO ] bug ahter count is :9
+2019-03-10 23:14:59 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:247418 ] - [ INFO ] username is :user7
+2019-03-10 23:14:59 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:247418 ] - [ INFO ] password is :Gg1234
+2019-03-10 23:14:59 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:247419 ] - [ INFO ] bugtitle is :这是由user7提交的bug
+2019-03-10 23:14:59 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:247419 ] - [ INFO ] bugdetail is :这是user7提交的bug详情
+2019-03-10 23:15:00 [wysh.selenium.business.LoginPro] - [ main:247461 ] - [ INFO ] 开始登录操作！！！
+2019-03-10 23:15:02 [wysh.selenium.business.HomePagePro] - [ main:250365 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-10 23:15:12 [wysh.selenium.business.HomePagePro] - [ main:260113 ] - [ INFO ] bug before count is :4
+2019-03-10 23:15:34 [wysh.selenium.business.HomePagePro] - [ main:281430 ] - [ INFO ] bug ahter count is :5
+2019-03-11 23:02:41 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-11 23:03:05 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:24017 ] - [ INFO ] username is :admin
+2019-03-11 23:03:05 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:24018 ] - [ INFO ] password is :Aa1234
+2019-03-11 23:03:05 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:24019 ] - [ INFO ] bugtitle is :这是由admin提交的bug2
+2019-03-11 23:03:05 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:24022 ] - [ INFO ] bugdetail is :这是admin提交的bug详情2
+2019-03-11 23:03:06 [wysh.selenium.business.LoginPro] - [ main:24283 ] - [ INFO ] 开始登录操作！！！
+2019-03-11 23:03:15 [wysh.selenium.business.HomePagePro] - [ main:34074 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-11 23:03:23 [wysh.selenium.business.HomePagePro] - [ main:41987 ] - [ INFO ] bug before count is :4
+2019-03-11 23:03:43 [wysh.selenium.business.HomePagePro] - [ main:61532 ] - [ INFO ] bug ahter count is :5
+2019-03-11 23:03:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:70158 ] - [ INFO ] username is :admin1
+2019-03-11 23:03:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:70161 ] - [ INFO ] password is :Bb12345
+2019-03-11 23:03:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:70161 ] - [ INFO ] bugtitle is :这是由admin1提交的bug2
+2019-03-11 23:03:52 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:70161 ] - [ INFO ] bugdetail is :这是admin1提交的bug详情2
+2019-03-11 23:03:52 [wysh.selenium.business.LoginPro] - [ main:70204 ] - [ INFO ] 开始登录操作！！！
+2019-03-11 23:03:54 [wysh.selenium.business.HomePagePro] - [ main:72829 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-11 23:03:56 [wysh.selenium.util.TestngRetry] - [ main:74122 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-11 23:03:56 [wysh.selenium.util.TestngRetry] - [ main:74143 ] - [ INFO ] 重试第：1次！
+2019-03-11 23:03:58 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:76246 ] - [ INFO ] username is :admin1
+2019-03-11 23:03:58 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:76246 ] - [ INFO ] password is :Bb12345
+2019-03-11 23:03:58 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:76246 ] - [ INFO ] bugtitle is :这是由admin1提交的bug2
+2019-03-11 23:03:58 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:76246 ] - [ INFO ] bugdetail is :这是admin1提交的bug详情2
+2019-03-11 23:03:58 [wysh.selenium.util.TestngRetry] - [ main:76278 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-11 23:03:58 [wysh.selenium.util.TestngRetry] - [ main:76278 ] - [ INFO ] 重试第：2次！
+2019-03-11 23:04:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:78337 ] - [ INFO ] username is :admin1
+2019-03-11 23:04:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:78338 ] - [ INFO ] password is :Bb12345
+2019-03-11 23:04:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:78338 ] - [ INFO ] bugtitle is :这是由admin1提交的bug2
+2019-03-11 23:04:00 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:78339 ] - [ INFO ] bugdetail is :这是admin1提交的bug详情2
+2019-03-11 23:04:00 [wysh.selenium.util.TestngRetry] - [ main:78356 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-11 23:04:00 [wysh.selenium.util.TestngRetry] - [ main:78356 ] - [ INFO ] 重试第：3次！
+2019-03-11 23:04:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:80419 ] - [ INFO ] username is :admin1
+2019-03-11 23:04:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:80419 ] - [ INFO ] password is :Bb12345
+2019-03-11 23:04:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:80419 ] - [ INFO ] bugtitle is :这是由admin1提交的bug2
+2019-03-11 23:04:02 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:80420 ] - [ INFO ] bugdetail is :这是admin1提交的bug详情2
+2019-03-11 23:04:02 [wysh.selenium.util.TestngRetry] - [ main:80449 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-11 23:04:02 [wysh.selenium.base.DriverBase] - [ main:80454 ] - [ INFO ] 开始截图
+2019-03-11 23:04:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:82549 ] - [ INFO ] username is :user3
+2019-03-11 23:04:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:82549 ] - [ INFO ] password is :Cc1234
+2019-03-11 23:04:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:82549 ] - [ INFO ] bugtitle is :这是由user3提交的bug2
+2019-03-11 23:04:04 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:82549 ] - [ INFO ] bugdetail is :这是user3提交的bug详情2
+2019-03-11 23:04:04 [wysh.selenium.util.TestngRetry] - [ main:82570 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-11 23:04:04 [wysh.selenium.base.DriverBase] - [ main:82576 ] - [ INFO ] 开始截图
+2019-03-11 23:04:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:84675 ] - [ INFO ] username is :user3
+2019-03-11 23:04:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:84675 ] - [ INFO ] password is :Cc1234
+2019-03-11 23:04:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:84676 ] - [ INFO ] bugtitle is :这是由user3提交的bug2
+2019-03-11 23:04:06 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:84677 ] - [ INFO ] bugdetail is :这是user3提交的bug详情2
+2019-03-11 23:04:06 [wysh.selenium.util.TestngRetry] - [ main:84689 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-11 23:04:06 [wysh.selenium.base.DriverBase] - [ main:84695 ] - [ INFO ] 开始截图
+2019-03-11 23:18:28 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-11 23:18:37 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:9108 ] - [ INFO ] username is :admin
+2019-03-11 23:18:37 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:9109 ] - [ INFO ] password is :Aa1234
+2019-03-11 23:18:37 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:9109 ] - [ INFO ] bugtitle is :这是由admin提交的bug2
+2019-03-11 23:18:37 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:9112 ] - [ INFO ] bugdetail is :这是admin提交的bug详情2
+2019-03-11 23:18:37 [wysh.selenium.business.LoginPro] - [ main:9207 ] - [ INFO ] 开始登录操作！！！
+2019-03-11 23:18:42 [wysh.selenium.business.HomePagePro] - [ main:14172 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-11 23:18:49 [wysh.selenium.business.HomePagePro] - [ main:21398 ] - [ INFO ] bug before count is :5
+2019-03-11 23:19:06 [wysh.selenium.business.HomePagePro] - [ main:38389 ] - [ INFO ] bug ahter count is :6
+2019-03-11 23:19:15 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:47047 ] - [ INFO ] username is :admin1
+2019-03-11 23:19:15 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:47048 ] - [ INFO ] password is :Bb12345
+2019-03-11 23:19:15 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:47048 ] - [ INFO ] bugtitle is :这是由admin1提交的bug2
+2019-03-11 23:19:15 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:47049 ] - [ INFO ] bugdetail is :这是admin1提交的bug详情2
+2019-03-11 23:19:15 [wysh.selenium.business.LoginPro] - [ main:47113 ] - [ INFO ] 开始登录操作！！！
+2019-03-11 23:19:17 [wysh.selenium.business.HomePagePro] - [ main:49710 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-11 23:19:18 [wysh.selenium.util.TestngRetry] - [ main:50908 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-11 23:19:19 [wysh.selenium.util.TestngRetry] - [ main:50930 ] - [ INFO ] 重试第：1次！
+2019-03-11 23:19:21 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:53011 ] - [ INFO ] username is :admin1
+2019-03-11 23:19:21 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:53011 ] - [ INFO ] password is :Bb12345
+2019-03-11 23:19:21 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:53011 ] - [ INFO ] bugtitle is :这是由admin1提交的bug2
+2019-03-11 23:19:21 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:53011 ] - [ INFO ] bugdetail is :这是admin1提交的bug详情2
+2019-03-11 23:19:21 [wysh.selenium.util.TestngRetry] - [ main:53047 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-11 23:19:21 [wysh.selenium.util.TestngRetry] - [ main:53047 ] - [ INFO ] 重试第：2次！
+2019-03-11 23:19:23 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:55111 ] - [ INFO ] username is :admin1
+2019-03-11 23:19:23 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:55112 ] - [ INFO ] password is :Bb12345
+2019-03-11 23:19:23 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:55112 ] - [ INFO ] bugtitle is :这是由admin1提交的bug2
+2019-03-11 23:19:23 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:55113 ] - [ INFO ] bugdetail is :这是admin1提交的bug详情2
+2019-03-11 23:19:23 [wysh.selenium.util.TestngRetry] - [ main:55130 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-11 23:19:23 [wysh.selenium.util.TestngRetry] - [ main:55130 ] - [ INFO ] 重试第：3次！
+2019-03-11 23:19:25 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:57195 ] - [ INFO ] username is :admin1
+2019-03-11 23:19:25 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:57195 ] - [ INFO ] password is :Bb12345
+2019-03-11 23:19:25 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:57195 ] - [ INFO ] bugtitle is :这是由admin1提交的bug2
+2019-03-11 23:19:25 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:57196 ] - [ INFO ] bugdetail is :这是admin1提交的bug详情2
+2019-03-11 23:19:25 [wysh.selenium.util.TestngRetry] - [ main:57224 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-11 23:19:25 [wysh.selenium.base.DriverBase] - [ main:57229 ] - [ INFO ] 开始截图
+2019-03-11 23:19:27 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59287 ] - [ INFO ] username is :user3
+2019-03-11 23:19:27 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59287 ] - [ INFO ] password is :Cc1234
+2019-03-11 23:19:27 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59287 ] - [ INFO ] bugtitle is :这是由user3提交的bug2
+2019-03-11 23:19:27 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:59287 ] - [ INFO ] bugdetail is :这是user3提交的bug详情2
+2019-03-11 23:19:27 [wysh.selenium.util.TestngRetry] - [ main:59309 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-11 23:19:27 [wysh.selenium.base.DriverBase] - [ main:59315 ] - [ INFO ] 开始截图
+2019-03-11 23:19:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:61393 ] - [ INFO ] username is :user3
+2019-03-11 23:19:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:61393 ] - [ INFO ] password is :Cc1234
+2019-03-11 23:19:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:61394 ] - [ INFO ] bugtitle is :这是由user3提交的bug2
+2019-03-11 23:19:29 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:61394 ] - [ INFO ] bugdetail is :这是user3提交的bug详情2
+2019-03-11 23:19:29 [wysh.selenium.util.TestngRetry] - [ main:61409 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-11 23:19:29 [wysh.selenium.base.DriverBase] - [ main:61414 ] - [ INFO ] 开始截图
+2019-03-11 23:57:23 [wysh.selenium.base.SelectDriver] - [ main:0 ] - [ INFO ] start browser ，and browser is chrome !!!
+2019-03-11 23:57:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:10858 ] - [ INFO ] username is :admin
+2019-03-11 23:57:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:10859 ] - [ INFO ] password is :Aa1234
+2019-03-11 23:57:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:10859 ] - [ INFO ] bugtitle is :这是由admin提交的bug3
+2019-03-11 23:57:34 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:10859 ] - [ INFO ] bugdetail is :这是admin提交的bug详情3
+2019-03-11 23:57:34 [wysh.selenium.business.LoginPro] - [ main:10953 ] - [ INFO ] 开始登录操作！！！
+2019-03-11 23:57:39 [wysh.selenium.business.HomePagePro] - [ main:16146 ] - [ INFO ] 提交bug开始了!!!!
+2019-03-11 23:57:46 [wysh.selenium.business.HomePagePro] - [ main:23318 ] - [ INFO ] bug before count is :6
+2019-03-11 23:58:03 [wysh.selenium.business.HomePagePro] - [ main:40445 ] - [ INFO ] bug ahter count is :7
+2019-03-11 23:58:12 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:49335 ] - [ INFO ] username is :admin1
+2019-03-11 23:58:12 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:49335 ] - [ INFO ] password is :Bb12345
+2019-03-11 23:58:12 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:49335 ] - [ INFO ] bugtitle is :这是由admin1提交的bug3
+2019-03-11 23:58:12 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:49335 ] - [ INFO ] bugdetail is :这是admin1提交的bug详情3
+2019-03-11 23:58:12 [wysh.selenium.business.LoginPro] - [ main:49383 ] - [ INFO ] 开始登录操作！！！
+2019-03-11 23:58:13 [wysh.selenium.base.DriverBase] - [ main:50150 ] - [ INFO ] 出现了弹出框！！！
+2019-03-11 23:58:13 [wysh.selenium.util.TestngRetry] - [ main:50184 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-11 23:58:13 [wysh.selenium.util.TestngRetry] - [ main:50207 ] - [ INFO ] 重试第：1次！
+2019-03-11 23:58:15 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:52298 ] - [ INFO ] username is :admin1
+2019-03-11 23:58:15 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:52298 ] - [ INFO ] password is :Bb12345
+2019-03-11 23:58:15 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:52298 ] - [ INFO ] bugtitle is :这是由admin1提交的bug3
+2019-03-11 23:58:15 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:52299 ] - [ INFO ] bugdetail is :这是admin1提交的bug详情3
+2019-03-11 23:58:15 [wysh.selenium.util.TestngRetry] - [ main:52324 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-11 23:58:15 [wysh.selenium.util.TestngRetry] - [ main:52325 ] - [ INFO ] 重试第：2次！
+2019-03-11 23:58:17 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:54382 ] - [ INFO ] username is :admin1
+2019-03-11 23:58:17 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:54383 ] - [ INFO ] password is :Bb12345
+2019-03-11 23:58:17 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:54383 ] - [ INFO ] bugtitle is :这是由admin1提交的bug3
+2019-03-11 23:58:17 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:54384 ] - [ INFO ] bugdetail is :这是admin1提交的bug详情3
+2019-03-11 23:58:17 [wysh.selenium.util.TestngRetry] - [ main:54407 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-11 23:58:17 [wysh.selenium.util.TestngRetry] - [ main:54407 ] - [ INFO ] 重试第：3次！
+2019-03-11 23:58:19 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:56469 ] - [ INFO ] username is :admin1
+2019-03-11 23:58:19 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:56469 ] - [ INFO ] password is :Bb12345
+2019-03-11 23:58:19 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:56469 ] - [ INFO ] bugtitle is :这是由admin1提交的bug3
+2019-03-11 23:58:19 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:56470 ] - [ INFO ] bugdetail is :这是admin1提交的bug详情3
+2019-03-11 23:58:19 [wysh.selenium.util.TestngRetry] - [ main:56493 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-11 23:58:19 [wysh.selenium.base.DriverBase] - [ main:56505 ] - [ INFO ] 开始截图
+2019-03-11 23:58:21 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:58537 ] - [ INFO ] username is :user3
+2019-03-11 23:58:21 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:58537 ] - [ INFO ] password is :Cc1234
+2019-03-11 23:58:21 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:58537 ] - [ INFO ] bugtitle is :这是由user3提交的bug3
+2019-03-11 23:58:21 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:58537 ] - [ INFO ] bugdetail is :这是user3提交的bug详情3
+2019-03-11 23:58:22 [wysh.selenium.util.TestngRetry] - [ main:58593 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-11 23:58:22 [wysh.selenium.base.DriverBase] - [ main:58599 ] - [ INFO ] 开始截图
+2019-03-11 23:58:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:60680 ] - [ INFO ] username is :user3
+2019-03-11 23:58:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:60680 ] - [ INFO ] password is :Cc1234
+2019-03-11 23:58:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:60681 ] - [ INFO ] bugtitle is :这是由user3提交的bug3
+2019-03-11 23:58:24 [wysh.selenium.testcase.TestLoginAndCommitBug] - [ main:60681 ] - [ INFO ] bugdetail is :这是user3提交的bug详情3
+2019-03-11 23:58:24 [wysh.selenium.util.TestngRetry] - [ main:60722 ] - [ INFO ] [TestResult name=testLogin status=FAILURE method=TestLoginAndCommitBug.testLogin(java.util.HashMap)[pri:0, instance:wysh.selenium.testcase.TestLoginAndCommitBug@458c1321] output={null}]
+2019-03-11 23:58:24 [wysh.selenium.base.DriverBase] - [ main:60726 ] - [ INFO ] 开始截图
